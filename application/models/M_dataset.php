@@ -8,7 +8,7 @@ Class M_dataset extends CI_Model {
 	{
 		$this->db->from('kejadian');
 		$this->db->select('*');
-		$this->db->order_by('id', 'DESC');
+		$this->db->order_by('id');
 		$query = $this->db->get();
 		if ($query->num_rows() >0)
 		{
@@ -31,6 +31,14 @@ Class M_dataset extends CI_Model {
 	function get_dataset()
 	{
 		$query = $this->db->get('kejadian');
+        return $query->result();
+	}
+	
+	function get_kodekab_dataset()
+	{
+		$this->db->select('kode_kabupaten');
+		$this->db->from('kejadian');
+		$query = $this->db->get();
         return $query->result();
 	}
 
@@ -68,5 +76,17 @@ Class M_dataset extends CI_Model {
 	   fclose($file_data);
 	   return $csv_data;
 	}
+	
+	function getTotals() {
+        $this->db->select('meninggal, hilang, terluka, rumah_rusak, rumah_terendam, fasum_rusak');
+        $query = $this->db->get('kejadian');
+        $totals = array();
+        foreach ($query->result() as $row)
+		{
+            $total = $row->meninggal + $row->hilang + $row->terluka + $row->rumah_rusak + $row->rumah_terendam + $row->fasum_rusak;
+            $totals[] = $total;
+        }
+        return $totals;
+    }
 	
 }

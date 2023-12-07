@@ -1,18 +1,12 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Dataset extends CI_Controller {
+class Dataset extends MY_Controller {
 
 	function __construct()
 	{
 		parent::__construct();
-		/*$level = array('1','2');
-		if (!$this->session->id_level == $level)
-		{
-			$this->session->set_flashdata('message', 'Maaf, akun anda tidak memiliki izin akses terhadap menu Pelanggan!');
-			$this->session->set_flashdata('alert', 'warning');
-			redirect('pelanggan');
-		}*/
+		$this->isAdmin();
 		$this->load->model('m_dataset');
 	}
 	
@@ -20,9 +14,14 @@ class Dataset extends CI_Controller {
 	{
 		$data['title'] = 'Dataset Kejadian Bencana Longsor';
 		$data['data_bencana'] = $this->m_dataset->listing();
-		$this->load->view('tabler/header', $data);
+		$this->load->view('tabler/header_open', $data);
+		$this->load->view('libraries/header_datatable');
+		$this->load->view('tabler/header_close', $data);
 		$this->load->view('dataset/index', $data);
-		$this->load->view('tabler/footer');
+		$this->load->view('tabler/footer_open');
+		$this->load->view('libraries/footer_datatable');
+		$this->load->view('libraries/footer_modal_dataset_upload');
+		$this->load->view('tabler/footer_close');
 	}
 	
 	function import()

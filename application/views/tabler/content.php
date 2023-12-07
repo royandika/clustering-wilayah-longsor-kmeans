@@ -26,6 +26,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 AAA
 				</div>
               </div>
+			  
+			  <div class="card-footer text-end">
+				<button class="btn btn-danger" type="button" onclick="window.location.href='<?=base_url();?>';">Batal</button>
+				<button type="reset" class="btn btn-default">Reset</button>
+                <button type="submit" class="btn btn-primary">Simpan dan Proses</button>
+              </div>
+			  
             </div>
            </div>
           </div>

@@ -81,14 +81,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   </div>
                 </a>
               </div>
+			  
+			  <!--<div class="col-md-12 col-xl-9">
+                <a class="card card-link" href="#">
+                  <div class="card-body">
+                    <div class="row">
+                      <canvas id="scatterChart"></canvas>
+                    </div>
+                  </div>
+                </a>
+              </div>-->
+			  
 			</div>
 			
-			<!--<div class="text-center mt-5">
-			<h1>Selamat datang!</h1>
-			  <p class="lead">Username: <?=$this->session->username;?></p>
-			  <p class="lead">Nama: <?=$this->session->nama_user;?></p>
-			  <p class="lead">ID User: <?=$this->session->id_user;?></p>
-			  <p class="lead">Codeigniter version: <?=CI_VERSION;;?></p>
-			</div>-->
+
           </div>
         </div>

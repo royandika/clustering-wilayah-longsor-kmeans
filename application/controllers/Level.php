@@ -1,17 +1,12 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Level extends CI_Controller {
+class Level extends MY_Controller {
 
 	function __construct()
 	{
 		parent::__construct();
-		if ($this->session->id_level != 1)
-		{
-			$this->session->set_flashdata('message', 'Maaf, akun anda tidak memiliki izin akses terhadap menu Level!');
-			$this->session->set_flashdata('alert', 'warning');
-			redirect('home');
-		}
+		$this->isAdmin();
 		$this->load->model('m_level');
 	}
 	
@@ -19,17 +14,23 @@ class Level extends CI_Controller {
 	{
 		$data['title'] = 'Level Akses User';
 		$data['list_level'] = $this->m_level->list_level();
-		$this->load->view('template/header');
-		$this->load->view('level_index', $data);
-		$this->load->view('template/footer');
+		$this->load->view('tabler/header_open', $data);
+		$this->load->view('libraries/header_datatable');
+		$this->load->view('tabler/header_close', $data);
+		$this->load->view('level/level_index', $data);
+		$this->load->view('tabler/footer_open');
+		$this->load->view('libraries/footer_datatable');
+		$this->load->view('tabler/footer_close');
 	}
 	
 	function baru()
 	{
 		$data['title'] = 'Tambah Level Akses';
-		$this->load->view('template/header');
-		$this->load->view('level_baru', $data);
-		$this->load->view('template/footer');
+		$this->load->view('tabler/header_open', $data);
+		$this->load->view('tabler/header_close', $data);
+		$this->load->view('level/level_baru', $data);
+		$this->load->view('tabler/footer_open');
+		$this->load->view('tabler/footer_close');
 	}
 
 	function simpan()
@@ -53,9 +54,11 @@ class Level extends CI_Controller {
 	{
 		$data['title'] = 'Perbarui Level Akses';
 		$data['data_level'] = $this->m_level->data_level($id_level);
-		$this->load->view('template/header');
-		$this->load->view('level_update', $data);
-		$this->load->view('template/footer');
+		$this->load->view('tabler/header_open', $data);
+		$this->load->view('tabler/header_close', $data);
+		$this->load->view('level/level_update', $data);
+		$this->load->view('tabler/footer_open');
+		$this->load->view('tabler/footer_close');
 	}
 	
 	function perbarui($id_level)

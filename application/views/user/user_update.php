@@ -1,20 +1,16 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
-	<!-- Page content-->
-	<div class="container">
-	    <div class="row mt-5">
-		<?php
-		  if ($this->session->flashdata('message') != ''){
-			echo "<div class='alert alert-".$this->session->flashdata('alert')." alert-dismissible fade show' role='alert'>
-			".$this->session->flashdata('message')."<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button></div>";
-		  }
-		?>
-		  <div class="col">
-			<div class="card">
-			  <h5 class="card-header"><?=$title;?></h5>
+        <!-- Page body -->
+        <div class="page-body">
+          <div class="container-xl">
+		  <div class="col-md-6 col-lg-6">
+            <div class="card card-borderless">
+              <div class="card-header">
+                <h3 class="card-title">Input Form</h3>
+              </div>
 			  <div class="card-body">
-				<?=form_open('user/perbarui/'.$data_user->id_user);?>
+                <?=form_open('user/perbarui/'.$data_user->id_user);?>
 				<div class="mb-3">
 				  <label class="form-label">Nama</label>
 				  <input type="text" class="form-control" name="nama_user" value="<?=$data_user->nama_user;?>" required />
@@ -40,16 +36,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				  </div>
 				  <div class="form-check">
 				    <input type="radio" name="id_level" value="2" class="form-check-input" <?=set_value('id_level', $data_user->id_level) == 2 ? "checked" : ""; ?> />
-				    <label class="form-check-label">Petugas</label>
-				  </div>
-				  <div class="row mt-3">
-				    <div class="col-sm-6"><button class="w-100 btn btn-lg btn-danger" type="button" onclick="window.location.href='<?=base_url('index.php/user');?>';">Batal</button></div>
-				    <div class="col-sm-6"><button class="w-100 btn btn-lg btn-primary" type="submit">Perbarui</button></div>
+				    <label class="form-check-label">User</label>
 				  </div>
 				</div>
-				<?=form_close();?>
-			  </div>
-			</div>
-		  </div>
-		</div>
-	  </div>
+				
+              </div>
+			  
+			  <div class="card-footer text-end">
+				<button class="btn btn-danger" type="button" onclick="window.location.href='<?=base_url('user');?>';">Batal</button>
+                <button type="submit" class="btn btn-primary">Update</button>
+              </div>
+			  <?=form_close();?>  
+            </div>
+           </div>
+          </div>
+        </div>

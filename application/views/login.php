@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="Roy Andika">
-    <title>Login :: Aplikasi Tagihan Listrik Pasca Bayar</title>
+    <title>Login :: Clustering Wilayah Rawan Longsor Dengan K-Means</title>
     <!-- Bootstrap core CSS -->
 	<link href="<?=base_url('asset/css/bootstrap.min.css');?>" rel="stylesheet">
     <style>
@@ -53,9 +53,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 		  <select class="form-control" name="id_level" required>
 			<option selected disabled>-- Pilih Tipe User --</option>
-			<option value="3">Pelanggan</option>
-			<option value="2">Petugas</option>
 			<option value="1">Admin</option>
+			<option value="1">User</option>
 		  </select>
 		<button class="w-100 btn btn-lg btn-primary mt-3" type="submit">Masuk</button>
 		<p class="mt-5 mb-3 text-muted">&copy; 2023 by <a href="https://royandika.my.id">Roy Andika</a></p>

@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="card-header">
                 <h3 class="card-title">Input</h3>
               </div>
-			  <?=form_open('proses/simpan');?>
+			  <?=form_open('kmeans/iterasi_simpan');?>
 			  
 			  <div class="card-body">
 			  
@@ -74,9 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</div>
 				
               </div>
-			  
-			  
-			  
+
 			  <div class="card-footer text-end">
                 <button type="reset" class="btn btn-default">Reset</button>
                 <button type="submit" class="btn btn-primary">Simpan dan Proses</button>
