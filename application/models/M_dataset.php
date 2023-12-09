@@ -20,6 +20,12 @@ Class M_dataset extends CI_Model {
 		}
 	}
 	
+	function get_all_data() 
+	{
+        $query = $this->db->get('kejadian');
+        return $query->result_array();
+    }
+	
 	function jml_dataset()
 	{
 		$this->db->select('*');

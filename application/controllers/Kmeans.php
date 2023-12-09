@@ -111,25 +111,74 @@ class Kmeans extends MY_Controller {
 	
 	function iterasi($n)
 	{
-		$data['title'] = 'Iterasi Ke-#'.$n;
-		$this->load->view('tabler/header_open', $data);
-		$this->load->view('libraries/header_datatable');
-		$this->load->view('libraries/header_chartjs');
-		$this->load->view('tabler/header_close');
+		/* // Step 1: Query semua data dari tabel "kejadian"
+        $data_from_db = $this->m_dataset->get_all_data();
+        // Step 2: Menambahkan variabel $jml_kejadian
+        foreach ($data_from_db as &$row)
+		{
+            // Menghitung jumlah dari a+b+c
+            $row['jml_kejadian'] = $row['meninggal'] + $row['hilang'] + $row['terluka'];
+        }
+        // Step 3: Kirim hasil query ke view
+        //$data['result'] = $data_from_db;
+
+        // Kirim data ke view
+        //$this->load->view('your_view', $data);
+		
+		//foreach ($data_from_db as $row):
+			//echo 'meninggal : '.$row['meninggal']; echo ' - hilang : '.$row['hilang']; echo ' - terluka : '.$row['terluka']; echo ' | Total : '.$row['jml_kejadian'].'<br />';
+		//endforeach;
+		*/
+		
 		$periksa = $this->get_where('iterasi', array('iterasi_ke' => $n))->num_rows();
 		if($periksa > 0){
-			$data['iterasi_ke'] = $this->get_where('iterasi', array('iterasi_ke' => $n))->row();
-			$data['dataset'] = $this->m_dataset->listing();
+			$data['title'] = 'Iterasi Ke-#'.$n;
+			$this->load->view('tabler/header_open', $data);
+			$this->load->view('libraries/header_datatable');
+			$this->load->view('libraries/header_apexcharts');
+			$this->load->view('tabler/header_close');
+			//Proses data
+			$iterasi_ke = $this->get_where('iterasi', array('iterasi_ke' => $n))->row();
+			$data['iterasi_ke'] = $iterasi_ke;
+			$c1_x = $iterasi_ke->c1_x;
+			$c1_y = $iterasi_ke->c1_y;
+			$c2_x = $iterasi_ke->c2_x;
+			$c2_y = $iterasi_ke->c2_y;
+			$c3_x = $iterasi_ke->c3_x;
+			$c3_y = $iterasi_ke->c3_y;
+			$result_array = [];
+			$data_proses = $this->m_dataset->get_all_data();
+			$count_a = 0; $count_b = 0; $count_c = 0;
+			foreach($data_proses as &$row)
+			{
+				$row['jml_kejadian'] = $row['meninggal'] + $row['hilang'] + $row['terluka'] + $row['rumah_rusak'] + $row['rumah_terendam'] + $row['fasum_rusak'];
+				$row['d1'] = number_format(sqrt(pow(($row['kode_kabupaten'] - $c1_x),2)+pow(($row['jml_kejadian'] - $c1_y),2)));
+				$row['d2'] = number_format(sqrt(pow(($row['kode_kabupaten'] - $c2_x),2)+pow(($row['jml_kejadian'] - $c2_y),2)));
+				$row['d3'] = number_format(sqrt(pow(($row['kode_kabupaten'] - $c3_x),2)+pow(($row['jml_kejadian'] - $c3_y),2)));
+				$row['nilaiTerkecil'] = min($row['d1'], $row['d2'], $row['d3']);
+				// Step 5: Controller mengelompokkan tiap row data dengan IF
+				if ($row['nilaiTerkecil'] == $row['d1']) {
+					$row['kelas'] = 'A'; $count_a++;
+				} elseif ($row['nilaiTerkecil'] == $row['d2']) {
+					$row['kelas'] = 'B'; $count_b++;
+				} else {
+					$row['kelas'] = 'C'; $count_c++;
+				}
+			}
+			$data['hasil_proses'] = $data_proses;
+			$data['count_a'] = $count_a;
+			$data['count_b'] = $count_b;
+			$data['count_c'] = $count_c;
 			$this->load->view('kmeans/iterasi_n', $data);
+			$this->load->view('tabler/footer_open');
+			$this->load->view('libraries/footer_datatable');
+			$this->load->view('libraries/footer_apexcharts_iterasi', $data);
+			$this->load->view('tabler/footer_close');
 		}else{
 			$this->session->set_flashdata('message', 'Data hitungan iterasi ke-'.$n.' tidak ditemukan!');
 			$this->session->set_flashdata('alert', 'warning');
 			redirect('kmeans');
 		}
-		$this->load->view('tabler/footer_open');
-		$this->load->view('libraries/footer_datatable');
-		$this->load->view('libraries/footer_chartjs_iterasi', $data);
-		$this->load->view('tabler/footer_close');
 	}
 	
 	function centroid_hapus($id)
