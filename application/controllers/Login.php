@@ -50,16 +50,19 @@ class Login extends CI_Controller {
 				   'logged_in' => TRUE
 				);
 				$this->session->set_userdata($session_data);
+				$this->session->set_flashdata('title', 'Login Sukses');
 				$this->session->set_flashdata('message', 'Selamat datang '.$this->session->username.'!');
 				$this->session->set_flashdata('alert', 'success');
 				redirect('home');
 			}else{
 			//1.b. Jika tidak ditemukan kecocokan username dan password
+				$this->session->set_flashdata('title', 'Gagal Login');
 				$this->session->set_flashdata('message', 'Maaf, username dan password tidak cocok atau ditemukan!');
-				$this->session->set_flashdata('alert', 'danger');
+				$this->session->set_flashdata('alert', 'error');
 				redirect('login');
 			}
 		}else{
+			$this->session->set_flashdata('title', 'Gagal Validasi');
 			$this->session->set_flashdata('message', validation_errors());
 			$this->session->set_flashdata('alert', 'warning');
 			redirect('login');

@@ -111,25 +111,6 @@ class Kmeans extends MY_Controller {
 	
 	function iterasi($n)
 	{
-		/* // Step 1: Query semua data dari tabel "kejadian"
-        $data_from_db = $this->m_dataset->get_all_data();
-        // Step 2: Menambahkan variabel $jml_kejadian
-        foreach ($data_from_db as &$row)
-		{
-            // Menghitung jumlah dari a+b+c
-            $row['jml_kejadian'] = $row['meninggal'] + $row['hilang'] + $row['terluka'];
-        }
-        // Step 3: Kirim hasil query ke view
-        //$data['result'] = $data_from_db;
-
-        // Kirim data ke view
-        //$this->load->view('your_view', $data);
-		
-		//foreach ($data_from_db as $row):
-			//echo 'meninggal : '.$row['meninggal']; echo ' - hilang : '.$row['hilang']; echo ' - terluka : '.$row['terluka']; echo ' | Total : '.$row['jml_kejadian'].'<br />';
-		//endforeach;
-		*/
-		
 		$periksa = $this->get_where('iterasi', array('iterasi_ke' => $n))->num_rows();
 		if($periksa > 0){
 			$data['title'] = 'Iterasi Ke-#'.$n;
@@ -156,6 +137,13 @@ class Kmeans extends MY_Controller {
 				$row['d2'] = number_format(sqrt(pow(($row['kode_kabupaten'] - $c2_x),2)+pow(($row['jml_kejadian'] - $c2_y),2)));
 				$row['d3'] = number_format(sqrt(pow(($row['kode_kabupaten'] - $c3_x),2)+pow(($row['jml_kejadian'] - $c3_y),2)));
 				$row['nilaiTerkecil'] = min($row['d1'], $row['d2'], $row['d3']);
+				// Menyusun nilai-nilai dalam array
+				$nilai = array($row['d1'], $row['d2'], $row['d3']);
+				// Mengurutkan array secara ascending
+				sort($nilai);
+				// Mengambil nilai terkecil pertama, kedua, dan ketiga
+				//$terkecil_pertama = $nilai[0];
+				$row['terkecil_kedua'] = $nilai[1];
 				// Step 5: Controller mengelompokkan tiap row data dengan IF
 				if ($row['nilaiTerkecil'] == $row['d1']) {
 					$row['kelas'] = 'A'; $count_a++;
@@ -164,6 +152,7 @@ class Kmeans extends MY_Controller {
 				} else {
 					$row['kelas'] = 'C'; $count_c++;
 				}
+				
 			}
 			$data['hasil_proses'] = $data_proses;
 			$data['count_a'] = $count_a;

@@ -35,13 +35,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	  <?=form_open('login/proses');?>
 		<img class="mb-4" src="<?=base_url('asset/image/amikom.png');?>" alt="" width="150">
 		<h1 class="h3 mb-3 fw-normal">Silahkan Login</h1>
-
-		<?php
-		  if ($this->session->flashdata('message') != ''){
-			echo "<div class='form-floating'><div class='alert alert-".$this->session->flashdata('alert')." alert-dismissible fade show' role='alert'>
-			".$this->session->flashdata('message')."<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button></div></div>";
-		  }
-		?>
 		
 		<div class="form-floating">
 		  <input type="text" class="form-control" id="floatingInput" placeholder="username" name="username" autofocus required />
@@ -60,9 +53,26 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<p class="mt-5 mb-3 text-muted">&copy; 2023 by <a href="https://royandika.my.id">Roy Andika</a></p>
 	  <?=form_close();?>
 	</main>
+	<div class="flashdata-class" data-flashdata="<?=$this->session->flashdata('message');?>" data-flashtitle="<?=$this->session->flashdata('title');?>" data-flashalert="<?=$this->session->flashdata('alert');?>"></div>
 	<!-- Bootstrap core JS-->
         <script src="<?=base_url('asset/js/bootstrap.bundle.min.js');?>"></script>
         <!-- Core theme JS-->
         <script src="<?=base_url('asset/js/scripts.js');?>"></script>
+	<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"></script>
+	<!-- Sweet Alert 2 -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert2/11.10.1/sweetalert2.all.min.js" integrity="sha512-1SVc8wK7Y/XRAKRKfP09ILQmzJGwqq6m66x6mWa7r36j+/fa+3kz46s8kvELsGc52yo1as48nneFic7BZKMu8Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script>
+		//Flashdata
+		const flashData = $('.flashdata-class').data('flashdata');
+		const flashAlert = $('.flashdata-class').data('flashalert');
+		const flashTitle = $('.flashdata-class').data('flashtitle');
+		if(flashData){
+			Swal.fire(
+				flashTitle,
+				flashData,
+				flashAlert
+			)
+		};
+	</script>
   </body>
 </html>

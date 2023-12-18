@@ -30,6 +30,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </footer>
 	  </div>
     </div>
+	<!-- SweetAlert2 -->
+	<div class="flashdata-class" data-flashdata="<?=$this->session->flashdata('message');?>" data-flashtitle="<?=$this->session->flashdata('title');?>" data-flashalert="<?=$this->session->flashdata('alert');?>"></div>
 	
 	<!-- Libs JS -->
     <!-- Tabler Core -->
@@ -37,9 +39,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="<?=base_url('asset/tabler/js/demo.min.js?1684106062');?>" defer></script>
 	<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"></script>
 	
-	<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?>
 	<!-- Sweet Alert 2 -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert2/11.10.1/sweetalert2.all.min.js" integrity="sha512-1SVc8wK7Y/XRAKRKfP09ILQmzJGwqq6m66x6mWa7r36j+/fa+3kz46s8kvELsGc52yo1as48nneFic7BZKMu8Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<script>

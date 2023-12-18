@@ -1,0 +1,717 @@
+kode_kabupaten,tanggal,kecamatan,lokasi,provinsi,meninggal,hilang,terluka,rumah_rusak,rumah_terendam,fasum_rusak,jumlah_dampak
+3503,2022-01-01,Kec. Pule Ds. Pakel,TRENGGALEK,JAWA TIMUR,0,0,0,0,0,0,0
+3210,2022-01-01,Kec. Agrapura Ds. Haurseah,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+1117,2022-01-01,"Kec. Permata, Ds. Buntul, Kec. Mesidah, Ds. Simpur",BENER MERIAH,ACEH,0,0,0,2,0,0,2
+3506,2022-01-02,Kec. Mojo Ds. Blimbing,KEDIRI,JAWA TIMUR,0,0,0,2,0,0,2
+3327,2022-01-02,Kec. Watukumpul Ds. Tundangan Ds. Cikadu,PEMALANG,JAWA TENGAH,0,0,0,0,0,0,0
+3202,2022-01-02,Kec. Bogorejo Ds. Lembur Sawah,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3503,2022-01-02,Kec. Kampak Ds. Karangrejo,TRENGGALEK,JAWA TIMUR,0,0,0,1,0,0,1
+3374,2022-01-03,Kec. Gunungpati Kel. Sekaran,KOTA SEMARANG,JAWA TENGAH,0,0,0,0,0,0,0
+1403,2022-01-03,Kec. Tanah Merah Ds. Tanjung Baru Kec. Kuala Indragiri Ds. Sungai Bela,INDRAGIRI HILIR,RIAU,0,0,0,18,0,0,18
+3374,2022-01-04,Kec. Banyumanik Kel. Srondol,KOTA SEMARANG,JAWA TENGAH,0,0,0,1,0,0,1
+3213,2022-01-05,Kec. Ciasem Ds. Ciasem,SUBANG,JAWA BARAT,0,0,0,0,0,0,0
+1308,2022-01-06,Kec. Situjuah Limo Nagari Nagari Tungkar,LIMA PULUH KOTA,SUMATERA BARAT,0,0,0,1,0,0,1
+3214,2022-01-06,Kec. Pasawahan Ds. Cihuni,PURWAKARTA,JAWA BARAT,0,0,0,1,0,0,1
+3514,2022-01-07,Kec. Grati Ds. Kalipang Dsn. Krajan,PASURUAN,JAWA TIMUR,0,0,0,0,0,0,0
+3211,2022-01-07,Kec. Ganeas Ds. Cikondang,SUMEDANG,JAWA BARAT,0,0,0,1,0,0,1
+3207,2022-01-07,Kec. Panjalu Ds. Sandingtaman Dsn. Cidarma,CIAMIS,JAWA BARAT,0,0,0,3,0,0,3
+3211,2022-01-08,Kec. Buahdua Ds. Cikurubuk,SUMEDANG,JAWA BARAT,0,0,0,1,0,0,1
+3211,2022-01-09,Kec. Tanjungkerta Ds. Tanjungmulya Ds. Kertaraharja,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+3203,2022-01-10,Kec. Pagelaran Ds. Karangharja,CIANJUR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-01-10,Kec. Sukajaya Ds. Sukamulih,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3323,2022-01-11,Kec. Kedu Ds. Bandung Gede Kec. Kaloran Ds. Tleter,TEMANGGUNG,JAWA TENGAH,0,0,0,4,0,0,4
+3323,2022-01-11,Kec. Pringsurat Ds. Karangwuni,TEMANGGUNG,JAWA TENGAH,0,0,0,2,0,0,2
+3323,2022-01-11,Kec. Kaloran  Ds. Porot  Ds. Banyu urip,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,0,0
+3216,2022-01-11,Kec. Cabangbungin Ds. Lenggah Jaya,BEKASI,JAWA BARAT,0,0,0,3,0,0,3
+3514,2022-01-11,Kec. Tosari Ds. Kandangan,PASURUAN,JAWA TIMUR,0,0,0,0,0,1,1
+3210,2022-01-13,Kec. Talaga Ds. Campaga,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3209,2022-01-13,Kec. Waled  Ds. Waled,CIREBON,JAWA BARAT,0,0,0,3,0,0,3
+3203,2022-01-13,Kec. Cikalongkulon Ds. Mekarsari Kec. Pagelaran Ds. Karangharja,CIANJUR,JAWA BARAT,0,0,0,8,0,0,8
+3211,2022-01-15,Kec. Sumedang Selatan Ds. Ciherang,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-01-17,Kec. Tamansari Ds. Tamansari,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3210,2022-01-17,Kec. Sindang Ds. Garawastu Kec. Cigasong Ds. Tenjolayar,MAJALENGKA,JAWA BARAT,0,0,0,1,0,1,2
+3503,2022-01-17,Kec. Bendungan Ds. Srabah,TRENGGALEK,JAWA TIMUR,0,0,0,1,0,0,1
+1106,2022-01-17,Kec. Rusip Antara Ds. Kuala Rawa,ACEH TENGAH,ACEH,0,0,0,1,0,0,1
+3320,2022-01-17,Kec. Mlonggo Ds. Jambu,JEPARA,JAWA TENGAH,0,0,0,1,0,0,1
+8201,2022-01-17,Kec. Jailolo Ds. Saria,HALMAHERA BARAT,MALUKU UTARA,0,0,0,3,0,0,3
+3502,2022-01-18,Kec. Sawoo Ds. Tumpakpelem,PONOROGO,JAWA TIMUR,0,0,0,2,0,0,2
+3214,2022-01-18,Kec. Sukatani Ds. Tajur Sindang,PURWAKARTA,JAWA BARAT,0,0,0,1,0,0,1
+3509,2022-01-18,Kec. Silo Ds. Pace,JEMBER,JAWA TIMUR,0,0,0,3,0,0,3
+3201,2022-01-18,Kec. Citeureup Ds. Tajur,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3210,2022-01-19,Kec. Sindangwangi Ds. Bantaragung,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3320,2022-01-19,Kec. Nalumsari Ds. Bategede,JEPARA,JAWA TENGAH,0,0,0,1,0,0,1
+3374,2022-01-20,Kec. Candisari  Kel. Karanganyar Gunung Kec. Semarang Barat  Kel. Kembangarum Kel. Kalibanteng Kidul  Kec. Ngaliyan Kel. Purwoyoso,KOTA SEMARANG,JAWA TENGAH,0,0,0,0,0,0,0
+3509,2022-01-20,Kec. Arjasa Ds. Arjasa,JEMBER,JAWA TIMUR,0,0,0,5,0,0,5
+3522,2022-01-21,Kec. Baureno Ds. Pucangarum Kec. Kanor Ds. Temu Tanggul Kali Ingas,BOJONEGORO,JAWA TIMUR,0,0,0,0,0,0,0
+3210,2022-01-21,Kec. Maja Ds. Cihaur Blok Garatengah RT 01 RW 13,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3211,2022-01-22,Kec. Wado Ds. Cisurat Dsn. Cukang Galeuh,SUMEDANG,JAWA BARAT,1,0,1,1,0,0,3
+3207,2022-01-22,Kec. Rancah Ds. Cileungsir,CIAMIS,JAWA BARAT,0,0,0,1,0,0,1
+3208,2022-01-22,Kec. Ciwaru Ds. Sumberjaya,KUNINGAN,JAWA BARAT,0,0,0,0,0,0,0
+3210,2022-01-22,Kec. Banjaran Ds. Cimeong,MAJALENGKA,JAWA BARAT,0,0,0,1,0,0,1
+3309,2022-01-22,Kec. Sawit Ds. manjung Dkh. Sidodadi,BOYOLALI,JAWA TENGAH,0,0,0,0,0,0,0
+3329,2022-01-23,Kec. Sirampong Ds. Manggis Dukuh Slawi,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+5303,2022-01-23,Kec. Amarasi Ds. Oesena,KUPANG,NUSA TENGGARA TIMUR,0,0,0,1,0,0,1
+3329,2022-01-23,Kec. Salem Ds. Bentarsari Kp. Pabelokan,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+3210,2022-01-23,Kec. Rajagaluh Ds. Payung,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3509,2022-01-23,Kec. Sumberbaru Ds. Jambesari,JEMBER,JAWA TIMUR,0,0,0,10,0,0,10
+1801,2022-01-24,Kec. Way Tenong Ds.  Pura Laksana,LAMPUNG BARAT,LAMPUNG,1,0,0,0,0,0,1
+3205,2022-01-25,Kec. Garut Kota Ds. Sukanegla,GARUT,JAWA BARAT,0,0,0,1,0,0,1
+3322,2022-01-25,Kec. Ungaran Timur Ds. Leyangan Ds. Lerep Ds. Sidosari Kec. Bergas Ds. Gebugan,SEMARANG,JAWA TENGAH,0,0,0,3,0,0,3
+5204,2022-01-26,Kec. Sumbawa Ds. Uma Sima,SUMBAWA,NUSA TENGGARA BARAT,0,0,1,1,0,0,2
+3328,2022-01-26,Kec. Bunijaya Ds. Begawat,TEGAL,JAWA TENGAH,0,0,0,0,0,0,0
+6504,2022-01-26,Kec. Lumbis Ogong Ds. Tambang Hulu,NUNUKAN,KALIMANTAN UTARA,0,0,0,1,0,0,1
+6309,2022-01-27,Kec. Murung Pudak Kel. Belimbing Raya,TABALONG,KALIMANTAN SELATAN,0,0,0,2,0,0,2
+3302,2022-01-27,Kec. Rowo Kele Ds. Giyanti,BANYUMAS,JAWA TENGAH,0,0,0,2,0,0,2
+3509,2022-01-28,Kec. Ledokombo Ds. Sumberanget,JEMBER,JAWA TIMUR,0,0,0,1,0,0,1
+3301,2022-01-28,Kec. Karangpucung Ds. Pamulihan,CILACAP,JAWA TENGAH,0,0,0,0,0,0,0
+3301,2022-01-29,Kec. Wanareja Ds. Bantar,CILACAP,JAWA TENGAH,0,0,0,0,0,0,0
+3329,2022-01-30,Kec.  Paguyangan Ds. Ragatunjung,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+3208,2022-01-30,Kec. Ciwaru Ds. Sagaranten,KUNINGAN,JAWA BARAT,0,0,0,3,0,0,3
+3206,2022-01-30,Kec. Salawu Ds. Sukarasa,TASIKMALAYA,JAWA BARAT,0,0,0,0,0,0,0
+3202,2022-01-30,Kec. Cikidang Ds. Mekarnangka Dsn. Sukasirna,SUKABUMI,JAWA BARAT,0,0,0,5,0,0,5
+5104,2022-01-30,Kec. Tampaksiring Ds. Tampaksiring,GIANYAR,BALI,0,0,0,0,0,0,0
+3208,2022-01-31,Kec. Garawangi Ds. Cirukem Ds. Kadatuan Kec. Ciniru Ds. Longkewang Ds. Mugkaldatar Ds. Rambatan,KUNINGAN,JAWA BARAT,0,0,0,0,0,6,6
+3301,2022-01-31,Kec. Cimanggu Ds. Cisalak,CILACAP,JAWA TENGAH,0,0,0,0,0,0,0
+3329,2022-01-31,Kec. Paguyangan Ds. Ragatunjung,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+3328,2022-02-01,Kec. Bumijawa Ds. Carul,TEGAL,JAWA TENGAH,0,0,1,1,0,0,2
+3329,2022-02-01,Kec. Paguyangan Ds. Jipang Bantarkawung,BREBES,JAWA TENGAH,0,0,0,1,0,0,1
+1278,2022-02-01,Kec. Gunungsitoli Utara Ds. Lasara Sowu (Galian Tipe C),KOTA GUNUNG SITOLI,SUMATERA UTARA,1,0,0,0,0,0,1
+3329,2022-02-02,Kec. Bantarkawung Ds. Jipang,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+3207,2022-02-03,Kec.  Ciamis Ds. Linggarsari,CIAMIS,JAWA BARAT,0,0,0,2,0,0,2
+3302,2022-02-03,Kec. Kembaran Ds. Bantarwuri,BANYUMAS,JAWA TENGAH,0,0,0,0,0,0,0
+3204,2022-02-03,Kec. Soreang Ds. Keramat Mulya,BANDUNG,JAWA BARAT,0,0,0,1,0,0,1
+3210,2022-02-03,Kec.  Banjaran  Ds. Cimeong Kec. Lemah Sugih Ds. Cigaleuh Kec.  Cikijing Ds. Sindang Panji,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3372,2022-02-04,Kec.  Laweyan Kel. Pajang,KOTA SURAKARTA,JAWA TENGAH,0,0,0,0,0,0,0
+1801,2022-02-04,Kec.  Bandar Negeri Suoh,LAMPUNG BARAT,LAMPUNG,0,0,0,0,0,1,1
+3202,2022-02-04,Kec.  Cibadak Ds. Sukasirna,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3301,2022-02-05,Kec. Dayeh Luruh  Ds. Bingkeng,CILACAP,JAWA TENGAH,0,0,0,1,0,0,1
+5107,2022-02-05,Kec. Bebadem Ds. Sibetan,KARANGASEM,BALI,0,0,0,1,0,0,1
+1801,2022-02-05,Kec.  Balik Bukit Ds. Pekon Kubu,LAMPUNG BARAT,LAMPUNG,0,0,0,2,0,0,2
+3204,2022-02-05,Kec. Cimenyan Ds. Padasuka,BANDUNG,JAWA BARAT,0,0,0,1,0,0,1
+3203,2022-02-06,Kec.  Sukaresmi  Ds. Cikancana,CIANJUR,JAWA BARAT,2,0,2,1,0,0,5
+3501,2022-02-06,Kec.  Pacitan Ds.  Ponggok,PACITAN,JAWA TIMUR,0,0,0,2,0,0,2
+3201,2022-02-06,Kec.  Ciawi Ds. Banjarsari,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3212,2022-02-07,Kec. Kroya Ds. Layamulya Kec. Sukagumiwang            Ds.Sukagumiwang,INDRAMAYU,JAWA BARAT,0,0,2,0,0,1,3
+1372,2022-02-07,Kec.  Tanjung Harapan Kel. Layiang,KOTA SOLOK,SUMATERA BARAT,0,0,0,1,0,0,1
+3307,2022-02-09,Kec. Kejajar Ds. Parikesit,WONOSOBO,JAWA TENGAH,0,0,1,1,0,0,2
+3202,2022-02-09,Kec. Nyalindung Ds. Wangunreja,SUKABUMI,JAWA BARAT,0,0,0,2,0,0,2
+3329,2022-02-09,Kec. Ketanggungan Ds. Sindangjaya,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+3302,2022-02-09,Kec. Cilongok Ds. Gununglurah,BANYUMAS,JAWA TENGAH,0,0,0,2,0,0,2
+3302,2022-02-09,Kec. Gumelar Ds. Samudra,BANYUMAS,JAWA TENGAH,0,0,0,0,0,0,0
+3217,2022-02-09,Kec. Cililin Ds. Rancapanggung Ds. Batulayang,BANDUNG BARAT,JAWA BARAT,0,0,0,2,0,0,2
+1218,2022-02-10,Kec. Dolok Merawan Ds. Dolok Merawan,SERDANG BEDAGAI,SUMATERA UTARA,0,0,0,1,0,0,1
+3301,2022-02-10,Kec. Karangpucung Ds. Pamulihan,CILACAP,JAWA TENGAH,0,0,0,2,0,0,2
+3207,2022-02-11,Kec. Rancah Ds. Dadiharja,CIAMIS,JAWA BARAT,0,0,0,1,0,0,1
+7307,2022-02-11,Kec. Sinjai Tengah Ds. Baru  Ds. Saotanre,SINJAI,SULAWESI SELATAN,0,0,0,4,0,0,4
+7307,2022-02-11,Kab. Sinjai Kec. Sinjai Selatan Ds. Polewali,SINJAI,SULAWESI SELATAN,0,0,0,0,0,0,0
+3502,2022-02-12,Kec. Sawoo Ds. Sawoo,PONOROGO,JAWA TIMUR,0,0,0,9,0,1,10
+3317,2022-02-12,Kec. Pancur Ds. Ngroto,REMBANG,JAWA TENGAH,0,0,1,1,0,0,2
+3328,2022-02-12,Kec. Pangkah  Ds. Dermasuci   Kec. Jatinegara Ds. Padasari,TEGAL,JAWA TENGAH,0,0,0,232,0,18,250
+3503,2022-02-12,Kec. Tugu Ds. Pucanganak  Ds. Dermosari,TRENGGALEK,JAWA TIMUR,0,0,0,1,0,1,2
+3329,2022-02-13,Kec. Banjarharjo Ds. Bandungsari,BREBES,JAWA TENGAH,0,0,0,3,0,0,3
+3323,2022-02-13,Kec. Temanggung Ds. Klepu Kec. Tembarak Ds. Purwodadi,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,1,1
+3211,2022-02-13,Kec. Ganeas Ds. Cikalong,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+3208,2022-02-14,Kec. Cibingbin Desa Sukaharja  Kec. Luragung Desa Panyosogan,KUNINGAN,JAWA BARAT,0,0,0,3,0,0,3
+3374,2022-02-14,Kec.  Candisari Kel. Jombang Kec. Gajahmungkur Kel. Gajahmungkur,KOTA SEMARANG,JAWA TENGAH,0,0,0,1,0,0,1
+7318,2022-02-15,Kec. Rano Dusun. Kayangan,TANA TORAJA,SULAWESI SELATAN,0,0,0,0,0,0,0
+3505,2022-02-15,Kec. Gandusari Ds. Krisik,BLITAR,JAWA TIMUR,0,0,0,3,0,0,3
+3201,2022-02-16,Kec. Klapanunggal  Ds. Leuwi Karet,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-02-16,Kec. Leuwiliang Ds. Puraseda,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3217,2022-02-16,Kec. Cipongkor Ds. Karangsari,BANDUNG BARAT,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-02-16,"Kec. Leuwiliang, Ds. Pabangbon   Ds. Purasari",BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3211,2022-02-16,Kec. Sumedang Selatan Ds. Siherang,SUMEDANG,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-02-16,Kec. Parakansalak Ds. Sukatani Kec. Nagrak Ds. Nagrak Utara,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-02-16,Kec. Sukamakmur Ds.  Pabuaran,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-02-16,Kec.  Citerureup Ds. Tahur Kec. Leuwiliang Ds. Purasari Ds. Tajur,BOGOR,JAWA BARAT,0,0,0,3,0,0,3
+3216,2022-02-17,kec. Tambun Utara Desa. Satria,BEKASI,JAWA BARAT,0,0,0,0,0,0,0
+3324,2022-02-17,Kec. Pageruyung  Ds. Petung,KENDAL,JAWA TENGAH,0,0,1,1,0,0,2
+3203,2022-02-17,Kec. Cibinong Ds. Padasuka,CIANJUR,JAWA BARAT,0,0,0,0,0,1,1
+3210,2022-02-17,Kec. Maja Ds. Sindangkerta,MAJALENGKA,JAWA BARAT,0,0,0,3,0,0,3
+3329,2022-02-17,Kec. Paguyangan Ds. Ragatanjung,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+3213,2022-02-17,Kec. Cisalak Ds. Cupunagara Ds. Darmaga,SUBANG,JAWA BARAT,0,0,1,3,0,0,4
+3325,2022-02-17,Kec. Tersono Ds. Banten Kec. Blado Ds. Gerlang Ds. Keteleng Kec. Bawang Ds. Sangubanyu,BATANG,JAWA TENGAH,0,0,0,2,0,2,4
+3323,2022-02-17,Kec. Kranggan Ds. Kranggan,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,0,0
+3201,2022-02-17,Kec. Citereup  Ds. Gunungsari,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3604,2022-02-17,Kec. Bojonegara Ds. Pakuncen,SERANG,BANTEN,0,0,0,0,0,0,0
+3201,2022-02-18,Kec. Sukajaya  Ds. Sipayung,BOGOR,JAWA BARAT,0,0,0,0,0,1,1
+3202,2022-02-18,Kec. Cibadak Ds. Cibadak Kec. Sukabumi Ds. Warnasari Ds. Sukajaya Kec. Jampang Tengah Ds. Bantarpanjang,SUKABUMI,JAWA BARAT,0,0,0,3,0,0,3
+3211,2022-02-18,Kec. Sumedang Selatan  Ds. Ciherang,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+3204,2022-02-18,Kec. Cicalengka Ds. Tanjungwangi,BANDUNG,JAWA BARAT,0,0,1,1,0,0,2
+3204,2022-02-18,Kec. Pasirjambu Ds. Cukanggenteng,BANDUNG,JAWA BARAT,0,0,0,1,0,0,1
+3602,2022-02-19,Kec. Cikukur Ds. Curug Panjang,LEBAK,BANTEN,0,0,0,38,0,0,38
+3502,2022-02-19,Kec.  Ngrayun  Ds. Baosan Kidul,PONOROGO,JAWA TIMUR,0,0,0,2,0,0,2
+3204,2022-02-19,Kec. Rancaekek Ds. Bojong Salam,BANDUNG,JAWA BARAT,0,0,0,1,0,0,1
+1608,2022-02-21,Kec. Muaradua Kel. Bumi Agung,OGAN KOMERING ULU SELATAN,SUMATERA SELATAN,0,0,0,0,0,0,0
+3207,2022-02-21,Kec. Lumbung Ds. Lumbung Kec. Cipaku Ds. Ciakar Ds. Cipaku Ds. Sukawening Ds. Jalatrang Kec. Sadanyana Ds. Tanjungsari,CIAMIS,JAWA BARAT,0,0,0,5,0,0,5
+7171,2022-02-21,Kec. Tikala Kel. Tikara Baru  Kec.  Tumimping Kel. Sumompo Kec. Tuminting,KOTA MANADO,SULAWESI UTARA,0,0,0,0,0,0,0
+3324,2022-02-21,Kec. Plantungan Ds. Mojoagung,KENDAL,JAWA TENGAH,0,0,0,3,0,0,3
+3201,2022-02-22,Kec. Cijeruk Ds. Cijeruk,BOGOR,JAWA BARAT,0,0,0,4,0,0,4
+3201,2022-02-22,Kec. Cijeruk Ds. Palasari,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3210,2022-02-23,Kec. Cingambul Ds. Wangkelang Ds. Cintaasih,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-02-23,Kec. Leuwisadeng Ds. Leuwisadeng,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-02-23,Kec. Bogor Selatan Kel. Harjasari,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3278,2022-02-23,Kec. Bungursari  Ds. Cibunigeulis,KOTA TASIKMALAYA,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-02-23,Kec. Cijeruk Ds. Cipelang,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-02-24,Kec. Cijeruk Ds. Palasari,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+7318,2022-02-24,Kec. Simbuang Lembang Makkodo,TANA TORAJA,SULAWESI SELATAN,0,0,0,0,0,1,1
+3201,2022-02-25,Kec. Jasinga Ds. Curug,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3320,2022-02-25,Kec. Tahunan Ds. Sukodono,JEPARA,JAWA TENGAH,0,0,0,1,0,0,1
+3208,2022-02-26,Kec. Ciwaru Ds. Sagaranten,KUNINGAN,JAWA BARAT,0,0,0,0,0,0,0
+3202,2022-02-26,Kec. Cikembar Ds. Cibatu,SUKABUMI,JAWA BARAT,0,0,0,2,0,0,2
+3210,2022-02-26,Kec. Cingambul Ds. Cigambul,MAJALENGKA,JAWA BARAT,0,0,0,2,0,1,3
+3208,2022-02-27,Kec. Maleber Ds. Giriwaringin,KUNINGAN,JAWA BARAT,0,0,0,2,0,0,2
+3202,2022-02-27,Kec. Bantargadung Ds. Bojonggaling,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-03-01,Kec. Bantargadung Ds. Bojongsari,SUKABUMI,JAWA BARAT,0,0,2,1,0,0,3
+1403,2022-03-02,Kec. Tanah Merah Ds. Kampung Baru,INDRAGIRI HILIR,RIAU,0,0,0,6,0,0,6
+3202,2022-03-02,Kec. Bantargadung Ds. Limusnunggal Kec. Caringin Ds. Sukamulya Kec. Cikidang Ds. Sampora Kec. Palabuhanratu Ds. Citepus Kec. Bantargadung Ds. Tugubandung Kec. Cisolok,SUKABUMI,JAWA BARAT,0,0,0,6,0,0,6
+3202,2022-03-04,Kec. Parakansalak Ds. Bojong Longok Kec. Warung Kiara Ds. Girijaya,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+7105,2022-03-04,Kec. Tareran Desa Koreng   Desa Kaneyan Desa Tumaluntung Raya Desa Rumoong Kec. Suluun Tareran Desa Pinapalangkow. Jaga III,MINAHASA SELATAN,SULAWESI UTARA,0,0,0,0,0,0,0
+1604,2022-03-04,Kec. Lahat Ds. Kota baru,LAHAT,SUMATERA SELATAN,0,0,0,1,0,0,1
+3201,2022-03-06,Kec. Megamendung  Ds. Sukamahi,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+1211,2022-03-07,Kec. Kabanjahe  Kel. Gung Negri,KARO,SUMATERA UTARA,0,0,0,4,0,0,4
+3203,2022-03-07,Kec. Situraja Ds. Cijeler,CIANJUR,JAWA BARAT,0,0,0,1,0,0,1
+3211,2022-03-07,Kec. Cisitu Ds. Sunda Mekar Kec. Situraja Ds. Kadu Wulung,SUMEDANG,JAWA BARAT,0,0,0,2,0,0,2
+3210,2022-03-08,Kec. Bantarujeg Ds. Silihwangi,MAJALENGKA,JAWA BARAT,0,0,0,1,0,0,1
+3313,2022-03-08,Kab. Karanganyar Kec. Karang Pandan Kec. Ngargoyoso Kec. Jumantono Kec. Matesih Kec. Tawangmangu Kec. Jatiyoso Kec. Kerjo,KARANGANYAR,JAWA TENGAH,0,0,0,68,0,1,69
+3217,2022-03-09,Kec. Batujajar Ds. Giriasih,BANDUNG BARAT,JAWA BARAT,0,0,1,1,0,0,2
+3202,2022-03-09,Kec. Cibadak Ds. Ciheulang Tonggoh Kec. Gegerbitung Ds. Caringin,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3573,2022-03-09,Kec. Blimbing Kel.  Polehan,KOTA MALANG,JAWA TIMUR,0,0,0,1,0,0,1
+1113,2022-03-09,Kec. Puteri Betung Ds. Meloak,GAYO LUES,ACEH,0,0,0,0,0,1,1
+3202,2022-03-09,Kec. Parakansalak Ds. Lebaksari Ds. Bojong Legok Ds. Sukakersa Ds. Sukatani Kec. Parungkuda Ds. Langensari Ds. Pondokkaso Landeuh Kec. Cidahu Ds. Tangkul Kec. Cibadak Ds. Cihideung Tonggoh Ds. Karangtengah Kec. Gegerbitung Ds. Caringin,SUKABUMI,JAWA BARAT,0,0,0,2,0,0,2
+3202,2022-03-10,Kec. Ciemas Ds. Ciemas Kec. Cikembar Ds. Bojongkembar Kec. Gegerbitung Ds. Karangjaya,SUKABUMI,JAWA BARAT,0,0,0,0,0,0,0
+3323,2022-03-10,Kec. Kaloran Ds. Getas,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,0,0
+3505,2022-03-10,Kec. Kademangan Ds. Kebonsari,BLITAR,JAWA TIMUR,0,0,0,5,0,0,5
+3314,2022-03-11,Kec. Kalijambe  Ds. Ngebung,SRAGEN,JAWA TENGAH,0,0,0,2,0,0,2
+3308,2022-03-11,Kec. Grabag Ds. Citrosono,MAGELANG,JAWA TENGAH,0,0,0,4,0,0,4
+3307,2022-03-12,Kec. Mojotengah Ds. Slukatan,WONOSOBO,JAWA TENGAH,0,0,0,4,0,0,4
+7174,2022-03-12,Kec. Kotamobagu Barat  Kel. Malinow,KOTA KOTAMOBAGU,SULAWESI UTARA,0,0,0,0,0,0,0
+3202,2022-03-12,Kec. Cicurug Ds. Nanggerang,SUKABUMI,JAWA BARAT,0,0,0,2,0,0,2
+3210,2022-03-12,Kec. SindangWangi  Ds. Bantar Agung,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3210,2022-03-12,Kec. Sindangwangi Ds. Buahkapas,MAJALENGKA,JAWA BARAT,0,0,0,1,0,0,1
+3214,2022-03-13,Kec. Wado Ds. Mulyajaya,PURWAKARTA,JAWA BARAT,0,0,1,0,0,1,2
+3204,2022-03-13,Kec. Nagreg Ds. Bojong,BANDUNG,JAWA BARAT,1,0,2,4,0,0,7
+3502,2022-03-13,Kec. Ngebel Ds. Gondowido  Kec. Badegan Ds. Dayakan,PONOROGO,JAWA TIMUR,0,0,0,3,0,0,3
+3210,2022-03-13,Kec. Rajagaluh  Ds. Sindang Panon Kec. Banjaran Ds. Banjaran,MAJALENGKA,JAWA BARAT,0,0,0,1,0,0,1
+3211,2022-03-13,Kec. Wado Ds. Mulyajaya,SUMEDANG,JAWA BARAT,0,0,0,1,0,0,1
+3307,2022-03-14,Kec. Kalibawang Ds. Karangsambung Ds. dempel  Ds. kalialang  Kec. Kepil Ds. Ngadirojo Kec. Kaliwiro Ds. Kauman Kec. Watumalang Ds. Banyukembar  Kec. Wadaslintang Ds. Ngalian  Ds. Trimulyo  Ds. Somogede  Ds. Tirip  Ds. Karanganyar  Ds. Kalidadap  Kec. Mojotengah Ds. Gunung Pungangan Ds. Mojosari  Kec. Sapuran Ds. Pacekelan,WONOSOBO,JAWA TENGAH,0,0,0,15,0,0,15
+3211,2022-03-14,Kec. Tanjungmedar Ds.  Sukatani,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+7318,2022-03-14,Kec. Makale  Ds. Bombongan,TANA TORAJA,SULAWESI SELATAN,0,0,0,1,0,0,1
+3374,2022-03-15,Kec. Candisari Ds. Candi,KOTA SEMARANG,JAWA TENGAH,0,0,0,0,0,0,0
+3307,2022-03-15,Kec. Wadaslintang Ds. Tirip  Ds Sumberejo Ds. Somogede  Kec. Kaliwiro Ds. Medono  Ds. Kauman Ds. Purwosari  Ds. Tracap,WONOSOBO,JAWA TENGAH,0,0,0,15,0,0,15
+1603,2022-03-16,Kec. Semende Darat Laut  Ds. Pulau Panggung,MUARA ENIM,SUMATERA SELATAN,0,0,0,3,0,0,3
+3505,2022-03-16,Kec. Doko Ds. Sidorejo,BLITAR,JAWA TIMUR,0,0,0,3,0,0,3
+1606,2022-03-16,Kec.  Lawang Wetan  Ds. Ulak Paceh Jaya,MUSI BANYU ASIN,SUMATERA SELATAN,0,0,0,2,0,0,2
+3579,2022-03-17,Kec. Batu Kel. Temas,KOTA BATU,JAWA TIMUR,0,0,0,0,0,0,0
+3201,2022-03-17,Kec. Cigombong Ds. Tugu Jaya,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-03-18,Kec. Kadudampit Ds. Cikahuripan,SUKABUMI,JAWA BARAT,0,0,0,4,0,1,5
+3201,2022-03-18,Kec. Cigombong Ds. Tugujaya,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3211,2022-03-19,Kec. Ganeas Ds. Cikoneng Kulon,SUMEDANG,JAWA BARAT,0,0,0,0,0,1,1
+5272,2022-03-19,Kec. Raba Kel. Ntabo,KOTA BIMA,NUSA TENGGARA BARAT,0,0,0,1,0,0,1
+3323,2022-03-21,Kec. Pringsurat Ds. Pagergunung,TEMANGGUNG,JAWA TENGAH,0,0,0,2,0,0,2
+3510,2022-03-21,Kec. Kalibaru Ds. Kebunrejo,BANYUWANGI,JAWA TIMUR,0,0,0,2,0,0,2
+3202,2022-03-21,Kec. Ciwalat Ds. Ciwalat,SUKABUMI,JAWA BARAT,0,0,0,0,0,0,0
+3202,2022-03-21,Kec. Nagrak Ds. Girijaya,SUKABUMI,JAWA BARAT,0,0,0,0,0,0,0
+3202,2022-03-21,Kec. Cikakak Ds. Cikakak Kec. Cisolok Ds. Pasir Baru Kec. Kabandungan Ds. Tugubandung Kec. Bantargadung Ds. Bantargadung Kec. Caringin Ds. Sukamulya Kec. Cikidang Ds. Sempoa Kec. Pelabuhan Ratu Ds. Pasir Suren Ds. Cikadu Ds Tojong Ds. Buniwangi Ds. Pelabuhan Ratu Ds. Citepus,SUKABUMI,JAWA BARAT,0,0,0,318,0,0,318
+3202,2022-03-21,Kec. Purabaya Ds. Citamiang,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-03-21,Kec. Warungkiara Ds. Bantarkalong,SUKABUMI,JAWA BARAT,0,0,0,0,0,0,0
+3202,2022-03-21,Kec. Cibadak Ds. Sukalarang Kec. Bantargadung Ds. Bojonggaling Ds. Karangtengah Kec. Jampang Tengah Ds. Jampangtengah Kec. Cikembar Ds. Cikembar Kec. Palabuhanratu Ds. Cikadu Kec. Nyalindung Ds. Cijangkar Kec. Cimanggu Ds. Sukamanah Kec. Nagrak Girijaya,SUKABUMI,JAWA BARAT,0,0,0,8,0,0,8
+7318,2022-03-22,Kec. Rano Ds. Rano Timur,TANA TORAJA,SULAWESI SELATAN,0,0,0,1,0,0,1
+5107,2022-03-22,Kec. Kubu Ds. Ban Ds. Tianyar Tengah,KARANGASEM,BALI,0,0,0,3,0,0,3
+3207,2022-03-23,Kec. Cimaragas Ds. Cimaragas,CIAMIS,JAWA BARAT,0,0,0,1,0,0,1
+3213,2022-03-23,Kec. Cisalak Ds. Mayang,SUBANG,JAWA BARAT,0,0,0,0,0,0,0
+3329,2022-03-26,Kec. Bantarkawung Ds. Jipang Ds. Banjarsari,BREBES,JAWA TENGAH,0,0,0,2,0,0,2
+3307,2022-03-26,Kec. Kaliabang Ds. Karangsambung,WONOSOBO,JAWA TENGAH,1,0,0,0,0,0,1
+3208,2022-03-27,Kec. Cilimus Ds. Setianegara,KUNINGAN,JAWA BARAT,0,0,0,1,0,0,1
+3503,2022-03-27,Kec. Dongko Ds. Siki,TRENGGALEK,JAWA TIMUR,0,0,0,1,0,0,1
+3202,2022-03-27,Kec. Sukalarang Ds. Sukalarang,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3217,2022-03-28,Kec. Lembang Ds. Suntenjaya,BANDUNG BARAT,JAWA BARAT,0,0,0,1,0,0,1
+3323,2022-03-31,Kec. Kaloran Ds. Getas,TEMANGGUNG,JAWA TENGAH,0,0,0,1,0,0,1
+3208,2022-03-31,Kec. Cilebak Ds. Bungurberes Kec. Lebakwangi Ds. Cinagara Kec. Subang Ds. Situgede Ds. Subang,KUNINGAN,JAWA BARAT,0,0,0,1,0,0,1
+3301,2022-03-31,Kec. Cimanggu Ds. Kutabima,CILACAP,JAWA TENGAH,0,0,0,8,0,1,9
+3210,2022-03-31,Kec. Lemahsugih Ds. Padarek,MAJALENGKA,JAWA BARAT,0,0,0,21,0,0,21
+3316,2022-03-31,Kec.Blora Ds.Buluroto,BLORA,JAWA TENGAH,0,0,0,4,0,0,4
+3323,2022-04-01,Kec. Kaloran Ds. Kwarakan,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,0,0
+3323,2022-04-02,Kec. Kranggan Ds. Purwosari ],TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,0,0
+3503,2022-04-03,Kec. Pule Ds. Puyung,TRENGGALEK,JAWA TIMUR,0,0,0,2,0,0,2
+3512,2022-04-03,Kec. Sumbermalang Ds. Kalirejo,SITUBONDO,JAWA TIMUR,0,0,0,1,0,0,1
+3217,2022-04-03,Kec.  Parongpong Ds. Cihanjuang Rahayu Kec. Lembang Ds. Cibogo Ds. Wangunreja,BANDUNG BARAT,JAWA BARAT,0,0,0,1,0,0,1
+3323,2022-04-03,Kec. Pringsurat Ds. Karangwuni Kec. Kranggan Ds. Ngropoh,TEMANGGUNG,JAWA TENGAH,0,0,0,1,0,0,1
+3573,2022-04-05,Kec. Kedungkakung Kel. Kotalama,KOTA MALANG,JAWA TIMUR,0,0,0,1,0,0,1
+3315,2022-04-06,Kec. Grobogan Ds. Sumberjatipohon,GROBOGAN,JAWA TENGAH,0,0,0,0,0,0,0
+3308,2022-04-07,Kec. Sawangan Ds. Gantang Ds. Jati Ds. Soronalan Ds. Jati,MAGELANG,JAWA TENGAH,0,0,1,0,0,0,1
+3204,2022-04-07,Kec. Cileunyi Ds. Cileunyi Wetan,BANDUNG,JAWA BARAT,0,0,0,0,0,0,0
+7311,2022-04-07,Kec. Bontocani Ds.Pattuku,BONE,SULAWESI SELATAN,0,0,0,0,0,0,0
+6472,2022-04-10,Kec.Sungai Pinang Dalam kec. Samarinda Seberang Kel.  sungai Keledang kec. loa janan ilir  kel. Rapak Dalam,KOTA SAMARINDA,KALIMANTAN TIMUR,0,0,0,0,0,0,0
+3304,2022-04-11,Kec.Madukara Ds.Limbangan,BANJARNEGARA,JAWA TENGAH,2,0,0,0,0,0,2
+3204,2022-04-11,Kec. Kertasari Ds.Tarumajaya Kec. Ciparay  Ds. Ciheulang,BANDUNG,JAWA BARAT,0,0,0,4,0,0,4
+3207,2022-04-11,Kec. Cikoneng Ds. Cikoneng  Kec. Sindangkasih Ds. Sukaresik,CIAMIS,JAWA BARAT,0,0,0,2,0,0,2
+3323,2022-04-11,Kab. Temanggung Kec. Kaloran  Ds. Tleter,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,0,0
+3307,2022-04-11,Kec. Sapuran Ds. Jonolontoro,WONOSOBO,JAWA TENGAH,0,0,0,4,0,0,4
+3217,2022-04-12,Kec. Lembang Ds. Pagerwangi,BANDUNG BARAT,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-04-12,Kec. Parakansalak  Ds.Sukakersa,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3211,2022-04-14,Kec. Citamiang Kel. Gedongpanjang,SUMEDANG,JAWA BARAT,0,0,4,1,0,0,5
+3201,2022-04-14,Kec. Pamijahan Ds.Gunung Menyan,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3210,2022-04-15,Kec. Lemahsugih Ds. Borogojol,MAJALENGKA,JAWA BARAT,0,0,0,1,0,0,1
+3217,2022-04-15,Kec. Rongga Ds. Sukaresmi,BANDUNG BARAT,JAWA BARAT,1,0,0,10,0,0,11
+3217,2022-04-18,Kec. Cililin Ds. Kidang Pananjung,BANDUNG BARAT,JAWA BARAT,0,0,0,4,0,0,4
+3211,2022-04-19,Kec. Sumedang Selatan Kel. Pasanggrahan Ds. Mekar Rahayu,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-04-19,Kec. Cigombong Ds. Watesjaya Ds. Cigombong,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-04-19,Kec. Cigombong Ds. Cisalada Ds. Ciburuy,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3308,2022-04-19,Kec. Borobudur Ds. Kenalan Ds. Bigaran,MAGELANG,JAWA TENGAH,0,0,0,3,0,0,3
+3205,2022-04-19,Kec. Garut Kota Ds. Cimuncang,GARUT,JAWA BARAT,0,0,0,3,0,0,3
+3301,2022-04-19,Kec. Wanareja Ds. Tambaksari Ds. Majingklak,CILACAP,JAWA TENGAH,0,0,0,0,0,0,0
+3217,2022-04-20,Kec. Cisarua Ds. Pasirhalang,BANDUNG BARAT,JAWA BARAT,0,0,0,2,0,0,2
+3211,2022-04-20,Kec. Sumedang Utara Ds. Margamukti,SUMEDANG,JAWA BARAT,0,0,0,0,0,2,2
+3202,2022-04-20,Kec. Parakansalak Ds. Lebak Sari,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-04-20,Kec.Pamijahan Ds.Cibitung Kulon,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3323,2022-04-20,kec.kandangan Ds. Tlogopucang,TEMANGGUNG,JAWA TENGAH,0,0,0,1,0,0,1
+3323,2022-04-21,Kec.kaloran Ds.Tempuran Desa Kaloran,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,1,1
+3204,2022-04-22,Kec.Cilengkrang Ds.Cipanjalu Kec. Cikancung Ds. Ciluluk,BANDUNG,JAWA BARAT,0,0,0,1,0,0,1
+3211,2022-04-22,Kec. Sumedang Selatan  Ds. Ciherang,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+6472,2022-04-22,Kec.Samarinda Ulu  Kel. Jawa,KOTA SAMARINDA,KALIMANTAN TIMUR,0,0,0,1,0,0,1
+3313,2022-04-23,Kec. Ngargoyoso Ds. Berjo,KARANGANYAR,JAWA TENGAH,1,0,0,0,0,0,1
+3312,2022-04-23,Kec. Bulukerto Ds. Conto,WONOGIRI,JAWA TENGAH,0,0,0,0,0,0,0
+1113,2022-04-23,Kec.Blangkejeren Gp.Palok,GAYO LUES,ACEH,0,0,0,6,0,0,6
+3201,2022-04-25,Kec. Klapanunggal Ds. Nambo,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3316,2022-04-26,Kec. Blora Kel. Mlangsen,BLORA,JAWA TENGAH,0,0,0,0,0,0,0
+7317,2022-04-27,Kec. Latimojong Ds. Tabang,LUWU,SULAWESI SELATAN,0,0,0,0,0,0,0
+3271,2022-04-27,Kec. Bogor Selatan Kel. Kerta Maya,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+6571,2022-04-27,Kec. Tarakan Barat Kel. Karang Anyar Kel. Kaspung Satu Kel. Sebengkok Kel. Pamusian,KOTA TARAKAN,KALIMANTAN UTARA,0,0,0,0,0,0,0
+3271,2022-04-27,Kec. Bogor Selatan Ds. Lawang Gintung,KOTA BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-04-27,Kec. Ciawi Ds. Banjarsari,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-04-27,Kec. Caringin Ds. Lemah Duhur Kec. Cijeruk Ds. Palasari Kec. Ciawi Ds. Cibedug,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3271,2022-04-28,Kec. Bogor Tengah Kel. Paledang Kel. Bantar Jati Kec. Bogor Selatan Kel. Mulyaharja,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3217,2022-04-29,Kec. Cisarua  Ds. Tugumukti,BANDUNG BARAT,JAWA BARAT,2,0,0,0,0,0,2
+3204,2022-05-01,Kec. Baleendah Kel. Manggahang,BANDUNG,JAWA BARAT,0,0,0,2,0,0,2
+3203,2022-05-02,Kec. Naringgul Ds. Wanasari,CIANJUR,JAWA BARAT,1,0,2,0,0,0,3
+3201,2022-05-03,Kec. Megamendung  Ds. Gadog,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-05-04,Kec. Megamendung Ds. Sukakarya Kec. Cisarua Ds. Kopo  Ds. Sumberjaya,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-05-04,Kec. Sukaraja Ds. Gunung Geulis,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-05-06,Kec. Sukajaya   Ds. Jayaharja  Kec. Leuwiliang Ds. Karacak,BOGOR,JAWA BARAT,0,0,0,0,0,1,1
+3201,2022-05-07,Kec. Caringin Ds. Cinagara,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-05-07,Kec. Cicurug Ds. Pasawahan,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-05-08,Kec. Cicantayan Ds. Sukadamai,SUKABUMI,JAWA BARAT,0,0,0,0,0,1,1
+3210,2022-05-09,Kec. Bantarujeg Ds. Wado Wetan,MAJALENGKA,JAWA BARAT,0,0,0,1,0,0,1
+3374,2022-05-09,Kec. Gunungpati Kel. Sedang,KOTA SEMARANG,JAWA TENGAH,0,0,0,0,0,0,0
+6409,2022-05-09,Kec. Sepaku  Ds. Telemow,PENAJAM PASER UTARA,KALIMANTAN TIMUR,0,0,0,2,0,0,2
+3208,2022-05-09,Kec. Nusaherang Ds. Jambar,KUNINGAN,JAWA BARAT,0,0,0,0,0,0,0
+7606,2022-05-10,Kec. Kalumpang Ds. kondo bulo,MAMUJU TENGAH,SULAWESI BARAT,0,0,0,1,0,1,2
+3203,2022-05-10,Kec. Sukaresmi Ds. Cibanteng,CIANJUR,JAWA BARAT,0,0,0,6,0,0,6
+5107,2022-05-10,Kec. Kubu Ds. Ban,KARANGASEM,BALI,0,0,0,0,0,0,0
+3201,2022-05-11,Kec. Megamendung Ds. Cipayung Girang,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3211,2022-05-11,Kec. Jatinangor  Ds. Hegarmanah  Kec. Cimalaka Ds. Cimuja Kec. Sumedang Selatan  Ds. Ciherang,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+3211,2022-05-12,Kec. Jatinangor Ds. Hegarmanah,SUMEDANG,JAWA BARAT,0,0,0,0,0,0,0
+8272,2022-05-13,Kec.  Tidore Kel. Tuguwaji Kec. Tidore Utara Kel. Rum,KOTA TIDORE KEPULAUAN,MALUKU UTARA,0,0,0,0,0,0,0
+3374,2022-05-14,Kec. Gunungpati Kel. Sukorejo,KOTA SEMARANG,JAWA TENGAH,0,0,0,0,0,0,0
+3307,2022-05-14,Kec. Wonosobo barat Kel . Wonosobo barat,WONOSOBO,JAWA TENGAH,0,0,0,0,0,0,0
+3201,2022-05-15,Kec. Cigombong Ds. pasarjaya Ds. Tugu Jaya,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-05-15,Kec. Tamansari Ds. Sukajaya Ds. Batujajar,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-05-15,Kec. Caringin   Ds.Cimande,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+6472,2022-05-16,Kec.  Sungai Pinang Kel. Mugirejo,KOTA SAMARINDA,KALIMANTAN TIMUR,0,0,0,2,0,0,2
+3201,2022-05-16,Kec. Cigombong Ds. Cigombong,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3211,2022-05-17,Kec. Sumedang Selatan Ds. Mekarrahayu,SUMEDANG,JAWA BARAT,0,0,0,0,0,1,1
+3201,2022-05-17,Kec. Cibungbulang  Ds. Cibatok 1 Kec. Cigudeg Ds. Banyuasih,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3323,2022-05-17,Kec. candiroto Ds. Canggal,TEMANGGUNG,JAWA TENGAH,0,0,0,2,0,0,2
+7105,2022-05-18,Kec. Motoling Ds. Lalumpe,MINAHASA SELATAN,SULAWESI UTARA,0,0,0,2,0,0,2
+3271,2022-05-18,Kec. Bogor Selatan Kel.Cipaku,KOTA BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-05-18,Kec. Caringin  Ds. Lemah Duhur,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3323,2022-05-18,Kec. Kaloran Ds. Ngetas,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,0,0
+3204,2022-05-19,Kec. Soreang Ds. Karamat Mulya,BANDUNG,JAWA BARAT,0,0,0,1,0,0,1
+3307,2022-05-19,Kec. Kalibawang Ds. Dempel,WONOSOBO,JAWA TENGAH,0,0,0,0,0,0,0
+5104,2022-05-19,Kec. Payangan Ds. Kerta,GIANYAR,BALI,0,0,2,0,0,0,2
+3208,2022-05-19,Kec. Subang Ds. Pamulihan,KUNINGAN,JAWA BARAT,0,0,0,0,0,0,0
+3271,2022-05-20,Kec. Bogor Selatan Kel. Bondongan Kec. Bogor Barat Kel. Pasir Jaya,KOTA BOGOR,JAWA BARAT,0,0,0,1,0,2,3
+6472,2022-05-20,Kec. Samarinda Ilir  Kel. Sidodamai Kel. Air Kec. Samarinda Ulu Kel. Jawa,KOTA SAMARINDA,KALIMANTAN TIMUR,0,0,0,0,0,0,0
+3201,2022-05-20,Kec. Sukajaya Ds. Sukajaya,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+1403,2022-05-20,Kec. Kuala Indragiri Ds. Sungai Bela,INDRAGIRI HILIR,RIAU,0,0,0,0,0,0,0
+3374,2022-05-20,Kec. Ngaliyan Kel. Bambankerep,KOTA SEMARANG,JAWA TENGAH,0,0,0,1,0,0,1
+7202,2022-05-21,Kec. Luwuk Kel. Soho,BANGGAI,SULAWESI TENGAH,0,0,0,0,0,0,0
+3202,2022-05-21,Kec. Sukaraja Ds. Langensari,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-05-21,Kec. Cijeruk Ds. Cipelang,BOGOR,JAWA BARAT,4,0,0,3,0,0,7
+3201,2022-05-22,Kec. Dramaga Ds. Neglasari,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3214,2022-05-22,Kec. Tegalwaru Ds. Pasanggarahan,PURWAKARTA,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-05-22,Kec. Cigombong Ds. Tugu Jaya,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-05-22,Kec. Cilgudeug Ds. Bunar,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+7105,2022-05-24,Kec. Suluun Tareran Ds. Kapoya,MINAHASA SELATAN,SULAWESI UTARA,0,0,0,4,0,0,4
+3208,2022-05-25,Kec. Hantara  Ds. Tundagan,KUNINGAN,JAWA BARAT,0,0,0,0,0,0,0
+3316,2022-05-27,Kec. Blora  Kel. Kedungjenar,BLORA,JAWA TENGAH,0,0,0,2,0,0,2
+3172,2022-05-27,Kec. Jatinegara  Kel. Cipinang Bali2,KOTA JAKARTA TIMUR,DKI JAKARTA,0,0,0,0,0,0,0
+3271,2022-05-28,Kec.Bogor Barat Kel. Menteng,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+6308,2022-05-28,Kec. Padang Batung Desa Batu Bini,HULU SUNGAI UTARA,KALIMANTAN SELATAN,0,0,0,1,0,0,1
+3512,2022-05-29,Kec. Mlandingan  Ds. Sumber Anyar,SITUBONDO,JAWA TIMUR,0,0,0,1,0,0,1
+3201,2022-05-31,Kec.  Megamendung Ds. Sukamahi Kec. Ciawi Ds. Bendungan,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3503,2022-06-01,Kec. Tugu Ds. Pucanganak,TRENGGALEK,JAWA TIMUR,0,0,0,1,0,0,1
+3276,2022-06-02,Kec. Sawangan Kel. Sawangan Baru,KOTA DEPOK,JAWA BARAT,2,0,1,0,0,1,4
+3201,2022-06-02,Kec. Caringin Ds. Pasir Muncang,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-06-04,Kec. Cihanyawar Ds. Cihanyawar Kec. Caringin Ds. Seuseupan,SUKABUMI,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-06-04,Kec. Leuwiliang  Ds. Puraseda,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3214,2022-06-04,Kec. Darangdan  Ds. Sawit,PURWAKARTA,JAWA BARAT,0,0,3,2,0,0,5
+3202,2022-06-05,Kec. Ciambar Ds. Manjul Kec. Nagrak Ds. Cihanyawar,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3171,2022-06-06,Kec. Jagakarsa Kel. Srengseng Sawah,KOTA JAKARTA SELATAN,DKI JAKARTA,0,0,0,0,0,0,0
+3271,2022-06-06,Kec. Bogor Selatan Kel.  Rangga mekar,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3203,2022-06-06,Kec. Pacet  Ds. Gadog,CIANJUR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-06-06,Kec. Pamijahan  Ds. Cimayang,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-06-06,Kec. Cibungbulang Ds. Sukamaju Kec. Cigombong Ds. Ciburuy  Kec. Megamendung Ds. Sukakarya,BOGOR,JAWA BARAT,0,0,0,3,0,0,3
+3374,2022-06-07,Kec.  Tugu Ds. Karanganyar,KOTA SEMARANG,JAWA TENGAH,0,0,0,0,0,0,0
+3201,2022-06-07,Kec. Sukajaya  Ds. Sukajaya,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3328,2022-06-07,Kec. Lebaksiu  Ds. Kajen,TEGAL,JAWA TENGAH,0,0,0,15,0,0,15
+3202,2022-06-08,Kec. Cisolok  Kel. Gunungtanjung  Kec. Nagrak  Kel. Darmareja Kel. Girijaya,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-06-09,Kec. Ranca Bungur Kel. Ranca Bungur Kec. Dramaga Kel.Neglasari Kec. Ciomas Kel. Ciapus Kec. Ciampea Kel. Cihideungudik,BOGOR,JAWA BARAT,0,0,0,8,0,0,8
+3315,2022-06-09,Kec. Pulokulon Ds. Tuko,GROBOGAN,JAWA TENGAH,0,0,0,5,0,0,5
+6472,2022-06-09,Kec. Sambutan Kel. Sambutan,KOTA SAMARINDA,KALIMANTAN TIMUR,0,0,0,0,0,0,0
+3201,2022-06-10,Kec. Cigombong Ds. Srogol  Ds. Cigombong,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-06-10,Kec. Cisarua Ds. Tugu Utara,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+1307,2022-06-10,Kec. Palupuh Nagari Koto Rantang,AGAM,SUMATERA BARAT,0,0,0,1,0,0,1
+3201,2022-06-11,Kec. Nanggung  Ds. Sukaluyu,BOGOR,JAWA BARAT,0,0,0,7,0,1,8
+3201,2022-06-11,Kec. Sukajaya Ds. Jayaharja Ds. Sukajaya Ds. Sukaluyu,BOGOR,JAWA BARAT,0,0,0,0,0,1,1
+3314,2022-06-12,Kab. Sragen Kec. Sambirejo Ds. Jetis,SRAGEN,JAWA TENGAH,0,0,0,0,0,0,0
+5319,2022-06-12,Kec. Satar Mese Barat Ds. Satar Lenda,MANGGARAI TIMUR,NUSA TENGGARA TIMUR,0,0,3,1,0,0,4
+3276,2022-06-13,Kec. Cimanggis Ds. Pasir Gunung Selatan,KOTA DEPOK,JAWA BARAT,0,0,0,0,0,0,0
+3305,2022-06-13,Kec. Sempor Ds. Kenteng Kec. Poncowarno Ds. Tirtomoyo,KEBUMEN,JAWA TENGAH,0,0,0,3,0,0,3
+3520,2022-06-13,Kec. Poncol Ds. Gonggang,MAGETAN,JAWA TIMUR,0,0,0,0,0,0,0
+3201,2022-06-13,Kec. Caringin Ds. Cimande Ds. Cinagara Kec. Ciomas Ds.Ciomas Rahayu Kec. Nanggung Ds. Cisarua,BOGOR,JAWA BARAT,0,0,0,5,0,0,5
+3502,2022-06-13,Kec. Pulung Ds. Bekiring,PONOROGO,JAWA TIMUR,0,0,0,10,0,0,10
+3276,2022-06-13,Kec. Cipayung Kel. Ratujaya,KOTA DEPOK,JAWA BARAT,0,0,0,0,0,0,0
+3307,2022-06-13,Kec. Bogoran Ds. Silemut Kec. Sapuran Ds. Surojoyo,WONOSOBO,JAWA TENGAH,0,0,0,1,0,0,1
+3374,2022-06-13,Kec. Ngaliyan Kel. Kalipancur,KOTA SEMARANG,JAWA TENGAH,0,0,0,1,0,0,1
+3323,2022-06-13,Kec. Tretep Ds. Tretep Ds. Donorejo Ds. Nglarangan,TEMANGGUNG,JAWA TENGAH,0,0,0,1,0,0,1
+3202,2022-06-13,Kec. Parangkuda Ds. Pondok Kaso Landeuh Kec. Cicurug Ds. Nanggerang Ds. Tenjoayu Ds. Mekarsari,SUKABUMI,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-06-14,Kec. Ciawi Ds. Citapen,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3217,2022-06-14,Kec. Cipatat Ds. Gunung Masigit,BANDUNG BARAT,JAWA BARAT,0,0,2,1,0,0,3
+3304,2022-06-16,Kec. Bawang Ds. Wanadri,BANJARNEGARA,JAWA TENGAH,0,0,0,1,0,0,1
+3328,2022-06-16,Kec. Bumijawa Ds. Cawital,TEGAL,JAWA TENGAH,0,0,0,0,0,0,0
+3305,2022-06-16,Kec. Karanggayam Ds. Glontor,KEBUMEN,JAWA TENGAH,0,0,0,1,0,0,1
+3507,2022-06-16,Kec. Sumbermanjing Ds. Kedung Banteng Ds. Sumberagung,MALANG,JAWA TIMUR,0,0,0,6,0,0,6
+1801,2022-06-18,Kec.  Batu Brak Kuta Besi,LAMPUNG BARAT,LAMPUNG,0,0,0,1,0,0,1
+3202,2022-06-18,Kec. Nagrak Ds. Cisarua Kec. Parungkuda Ds. Langensari Ds.  Palasari Hilir Kec. Ciambar Ds. Munjul,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3214,2022-06-18,Kec. Pasawahan Ds. Cihuni,PURWAKARTA,JAWA BARAT,0,0,0,1,0,0,1
+3208,2022-06-20,Kec. Maleber Ds. Padamulya,KUNINGAN,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-06-20,Kec. Tenjolaya Ds. Situ daun Kec. Dramaga  Ds. Sukawening,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3207,2022-06-23,Kec. Tambaksari Ds. Kadupandak,CIAMIS,JAWA BARAT,0,0,0,2,0,0,2
+3207,2022-06-23,Kec. Tambaksari Ds. Tambaksari,CIAMIS,JAWA BARAT,0,0,0,4,0,0,4
+3208,2022-06-24,Kec. Subang Ds. Jatisari Kec. Cilebak Ds. Bungurberes Kec. Ciwaru Ds. Sagaranten,KUNINGAN,JAWA BARAT,0,0,0,0,0,0,0
+3503,2022-06-24,Kec. Munjungan Ds. Besuki,TRENGGALEK,JAWA TIMUR,0,0,1,0,0,0,1
+7316,2022-06-24,Kec. Anggeraja Ds. Mendatte,ENREKANG,SULAWESI SELATAN,0,0,0,1,0,0,1
+3217,2022-06-24,Kec. Cikalongwetan Ds. Cipada,BANDUNG BARAT,JAWA BARAT,0,0,0,1,0,0,1
+3323,2022-06-24,Kec. Parakan Ds. Caturanom,TEMANGGUNG,JAWA TENGAH,0,0,0,0,0,0,0
+3202,2022-06-24,Kec. Cicurug Ds. Nyangkowek,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3327,2022-06-26,Kec. Moga  Ds. Plakaran,PEMALANG,JAWA TENGAH,2,0,1,0,0,0,3
+3302,2022-06-26,Kec. Baturaden Ds. Remppah,BANYUMAS,JAWA TENGAH,0,0,0,1,0,0,1
+3302,2022-06-26,Kec. Gumelar Ds. Grumbul Babakan,BANYUMAS,JAWA TENGAH,0,0,0,0,0,0,0
+3307,2022-06-26,Kec. Sukoharjo Ds. Kalibening,WONOSOBO,JAWA TENGAH,0,0,0,1,0,0,1
+3301,2022-06-26,Kec. Cimanggu Ds. Panimbangan Kec. Karangpucung Ds. Tayem Kec. Cipari Ds. Cipari,CILACAP,JAWA TENGAH,0,0,1,2,0,0,3
+3324,2022-06-27,Kec. Limbangan Ds. Kedungboto,KENDAL,JAWA TENGAH,0,0,0,1,0,0,1
+3214,2022-06-27,Kec. Sukatani Ds. Penyindangan,PURWAKARTA,JAWA BARAT,0,0,0,4,0,0,4
+3302,2022-06-27,Kec. Wangin Ds. Randegan,BANYUMAS,JAWA TENGAH,0,0,0,1,0,1,2
+3201,2022-06-28,Kec. Tanah Sareal Kel. Kayu Manis,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+7472,2022-06-28,Kec. Kokalukuna Kel. Liwuto,KOTA BAUBAU,SULAWESI TENGGARA,0,0,0,2,0,0,2
+7304,2022-06-30,Kec. Kelara Kel. Tolo Utara,JENEPONTO,SULAWESI SELATAN,0,0,0,0,0,0,0
+3271,2022-06-30,Kec. Bogor Tengah  Kel. Cibogor,KOTA BOGOR,JAWA BARAT,0,0,1,1,0,0,2
+7603,2022-06-30,Kec. Tabulahan Ds. Tabulahan Ds. Ganda Dewata Ds. Periangan Peu Ds. Salubakka Ds. Baruru Ds. Pangandaran,MAMASA,SULAWESI BARAT,2,0,3,43,0,0,48
+7604,2022-06-30,Kec. Kalukku    Ds. Keang      Ds. Uhaimate,MAMUJU,SULAWESI BARAT,0,0,3,0,0,0,3
+1606,2022-07-05,Kec. Sekayu Kel. Balai Agung,MUSI BANYU ASIN,SUMATERA SELATAN,0,0,0,4,0,0,4
+7301,2022-07-06,Kec. Benteng Ds. Benteng,SELAYAR,SULAWESI SELATAN,0,0,0,3,0,0,3
+3201,2022-07-06,Kec. Tamansari Ds. Sukaluyu,BOGOR,JAWA BARAT,0,0,0,8,0,0,8
+7212,2022-07-08,Kec. Petasia  Ds. Bahoue,MOROWALI UTARA,SULAWESI TENGAH,0,0,0,1,0,0,1
+3202,2022-07-13,Kec. Gegerbitung Ds.Cijurey,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3217,2022-07-13,Kec. Cisarua Ds.Tugu Mukti,BANDUNG BARAT,JAWA BARAT,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+3319,2022-07-14,Kec. Dawe Ds. Colo,KUDUS,JAWA TENGAH,0,0,0,1,0,0,1
+6472,2022-07-15,Kec. Samarinda Ilir  Kel. Sungai Dama,KOTA SAMARINDA,KALIMANTAN TIMUR,0,0,0,1,0,0,1
+3217,2022-07-15,Kec. Ngamprah Ds. Margajaya Ds. Bojong Koneng Ds. Cimanggu Kec. Padalarang Ds. Tagog Apu Kec. Cisarua Ds.  Tugu Mukti,BANDUNG BARAT,JAWA BARAT,0,0,0,6,0,0,6
+3201,2022-07-15,Kec. Megamendung  Ds. Cipayung,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3208,2022-07-16,Kec. Kadugede  Ds. Margabakti,KUNINGAN,JAWA BARAT,0,0,0,1,0,0,1
+3271,2022-07-16,Kec. Bogor Selatan Kel. Genteng,KOTA BOGOR,JAWA BARAT,0,0,0,3,0,0,3
+3209,2022-07-16,Kec. Dukupuntang Ds. Kedongdong Kidul,CIREBON,JAWA BARAT,0,0,0,1,0,0,1
+1608,2022-07-18,Kec. Warkuk Ranau Selatan Ds. Vila Ds. Sukamarga Ds. Tanjung Kemala Ds. Bedeng Tiga Ds. Gunung Aji Ds. Sapulunik,OGAN KOMERING ULU SELATAN,SUMATERA SELATAN,0,0,4,5,0,1,10
+1608,2022-07-19,Kec. Pulau Beringin  Ds. Pulau Beringin  Ds. Aromantay,OGAN KOMERING ULU SELATAN,SUMATERA SELATAN,0,0,0,0,0,0,0
+3202,2022-07-20,Kec. Cidahu Ds. Giri Jaya,SUKABUMI,JAWA BARAT,2,0,0,1,0,0,3
+3202,2022-07-21,Kec. Curug Kembar  Ds. Mekar Tanjung,SUKABUMI,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-07-24,Kec. Dramaga Ds. Babakan Ds. Sukadamai Kec. Sukajaya Ds. Sukamulih,BOGOR,JAWA BARAT,0,0,0,5,0,0,5
+3271,2022-07-24,Kec. Bogor Tengah Kel. Cibogor Kec. Bogor Utara Kel. Bantarjati Kel. Tanah Baru Kel. Ciluar Kec. Tanah Sereal Ds. Kedung Badak Kec. Bogor Barat Kel. Pasir Jaya,KOTA BOGOR,JAWA BARAT,0,0,1,3,0,0,4
+3201,2022-07-24,Kec. Sukajaya Ds. Sukamulih Kec. Nanggung Kel. Cisarua,BOGOR,JAWA BARAT,0,0,0,4,0,0,4
+3201,2022-07-25,Kec. Leuwiliang Ds. pabangbon Kec. Sukajaya Ds. Sukamulih,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3271,2022-07-26,Kec. Bogor Tengah Kel. Cibogor,KOTA BOGOR,JAWA BARAT,0,0,1,1,0,0,2
+8106,2022-07-31,Kec. Huamual Ds. Luhu Kec. Elpaputih Ds. Sahulauw,SERAM BAGIAN BARAT,MALUKU,0,0,0,17,0,1,18
+3201,2022-08-02,Kec.Sukajaya Ds.Sukajaya,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-08-02,Kec. Naggung  Ds. Malasari,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-08-03,Kec.Nanggung Ds.Hambaro,BOGOR,JAWA BARAT,0,0,0,0,0,1,1
+3301,2022-08-08,Kec.Maos  Ds.Karangrena,CILACAP,JAWA TENGAH,0,0,0,1,0,0,1
+3503,2022-08-11,Kec. Watulimo  Ds. Dukuh,TRENGGALEK,JAWA TIMUR,0,0,0,3,0,0,3
+3305,2022-08-12,Kec. Karanggayam Ds. Kalirejo,KEBUMEN,JAWA TENGAH,0,0,0,1,0,0,1
+3302,2022-08-12,Kec. Cilongok Ds. Karangpucung,BANYUMAS,JAWA TENGAH,0,0,0,2,0,0,2
+3302,2022-08-12,Kec. KarangLewas  Ds. Kediri,BANYUMAS,JAWA TENGAH,0,0,0,0,0,0,0
+3201,2022-08-12,Kec. Caringin  Ds. Cimande Hilir Ds. Pancawati Kec. Cigombong Ds. Cuadeg' Kec. Megamendung Ds. Sukaresmi,BOGOR,JAWA BARAT,0,0,0,47,0,0,47
+3271,2022-08-13,Kec. Bogor Barat Kel. Semplak,KOTA BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3172,2022-08-13,Kec. Pasar Rebo  Kel. Cijantung,KOTA JAKARTA TIMUR,DKI JAKARTA,0,0,0,0,0,0,0
+3201,2022-08-14,Kec. Leuwiliang Ds. Karyasari,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-08-14,Kec. Cisarua Ds. Cilember Kec. Ciawi Ds. Banjar Waru,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3217,2022-08-14,Kec. Gunung Halu Ds. Celak Ds. Gununghalu Kec. Rongga Ds. Cinengah Kec. Cipeundeuy Ds. Jatimekar Kec. Sindangkerta Ds. Buninagara,BANDUNG BARAT,JAWA BARAT,0,0,0,3,0,0,3
+6571,2022-08-18,Kec. Tarakan Barat Kel. Karang Anyar,KOTA TARAKAN,KALIMANTAN UTARA,1,0,0,0,0,0,1
+1603,2022-08-19,Kec.Sungai Rotan Desa Danau Tampang,MUARA ENIM,SUMATERA SELATAN,0,0,0,10,0,0,10
+3271,2022-08-21,Kec. Bogor Selatan Ds. Bondongan,KOTA BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3319,2022-08-24,Kec. Gebog Kudus Ds. Gribik,KUDUS,JAWA TENGAH,1,0,0,0,0,0,1
+3202,2022-08-27,Kec. Kabandungan Ds. Tugubandung,SUKABUMI,JAWA BARAT,0,0,0,3,0,0,3
+3201,2022-08-27,Kec. Sukamakmur  Ds. Cibadak,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3271,2022-08-27,Kec. Bogor Utara Kel. Ciluar Kel. Cimahpar Kec. Bogor Selatan Kel. Muarasari Kel. Lawanggintung Kel. Pakuan Kel. Cipaku Kec. Bogor Tengah Kel. Gudang Kec. Bogor Timur Kel. Tajur,KOTA BOGOR,JAWA BARAT,0,0,0,1,0,1,2
+3201,2022-08-28,Kec. Citeureup Ds. Tajur,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3271,2022-08-29,Kec Bogor Tengah Kel Cibogor  Kel Ciwaringin Kel Panaragan Kel Paledang Kec Tanah Sareal Kel Kencana Sentral Kel Kedung Badak Kel Kebon Pedes  Kec Bogor Barat  Kel Pasir Jaya Kel Pasir Kuda Kel Balumbang Jaya  Kel Gunung Batu Kel. Pasir Jaya Kec. Bogor Selatan Kel Bondongan Kec Bogor Timur  Kel Katulampa Kel Sindangrasa Kec. Bogor Utara Kel. Cibuluh,KOTA BOGOR,JAWA BARAT,0,0,0,7,0,0,7
+3201,2022-08-29,Kec. Rumpin Ds. Sukamulya,BOGOR,JAWA BARAT,0,0,0,3,0,0,3
+3271,2022-08-30,Kec.Bogor Timur Kel Sukasari,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3204,2022-08-30,Kec. Kutawaringin Ds. Pameuntasan,BANDUNG,JAWA BARAT,1,0,1,0,0,0,2
+3271,2022-09-02,Kec. Bogor Selatan Kel. Empang Kel. Muarasari Kec. Bogor Barat Kel. Cilendek Barat,KOTA BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+7307,2022-09-04,Kec. Bulupoddo  Ds. Tompo Bulu,SINJAI,SULAWESI SELATAN,0,0,0,1,0,0,1
+6504,2022-09-05,Kec. Krayan Selatan Ds. Long Pasia Ds. Liang Lunuk Ds. Pa’ Ibang Ds. Pa’ Amai Ds. Pa’ Kaber Ds. Pa’ Tera Ds. Pa’ Sing Ds. Pa’ Dalan Ds. Long Birar Ds. Pa’ Upan Ds. Long Budung Ds. Long Pupung Ds. Pa’ Urang,NUNUKAN,KALIMANTAN UTARA,0,0,0,0,0,2,2
+3329,2022-09-05,Kec. Sirampong Ds.  Plompong,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+3203,2022-09-07,Kec. Pasirkuda  Ds. Kubang  Kec. Cianjur  Kel. Sayang,CIANJUR,JAWA BARAT,0,0,2,2,0,0,4
+3203,2022-09-07,Kec. Campaka  Ds. Sukajadi Ds. Sukadana,CIANJUR,JAWA BARAT,0,0,0,0,0,0,0
+3203,2022-09-07,Kec. Tanggeung Ds.  Margaluyu,CIANJUR,JAWA BARAT,0,0,0,1,0,0,1
+7316,2022-09-09,Kec. Curio Desa Pebaloran,ENREKANG,SULAWESI SELATAN,0,0,0,3,0,0,3
+3324,2022-09-10,Kec. Singorojo Ds. Cening,KENDAL,JAWA TENGAH,0,0,0,1,0,0,1
+3308,2022-09-11,Kec. Kaliangkrik Ds. Adipuro,MAGELANG,JAWA TENGAH,0,0,0,0,0,0,0
+3503,2022-09-11,Kec. Watulimo Ds. Gemaharjo Ds. Sawahan,TRENGGALEK,JAWA TIMUR,0,0,0,0,0,0,0
+3508,2022-09-11,Kec. Candipuro Ds. Sumber Wuluh,LUMAJANG,JAWA TIMUR,0,0,0,0,0,0,0
+3301,2022-09-12,Kec. Kesugihan Desa Ciwuni,CILACAP,JAWA TENGAH,0,0,0,0,0,0,0
+3201,2022-09-12,Kec. Megamendung Ds Cipayung Ds. Pasir Angin Kec. Cigombong Ds. Tugujaya Kec. Cijeruk Ds. Tanjungsari Kec. Cisarua Ds. Kopo Kec. Sukaraja Ds. Gununggeulis,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-09-12,Kec.Nanggung Ds. Bantar Karet,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-09-14,Kec. Babakan Madang  Ds. Bojong Koneng,BOGOR,JAWA BARAT,0,0,0,17,0,0,17
+3271,2022-09-15,Kec. Bogor Selatan Kel. Bondongan,KOTA BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+5107,2022-09-15,Kec. Selat Ds. Duda,KARANGASEM,BALI,0,0,0,1,0,0,1
+3271,2022-09-16,Kec. Bogor Barat Kel. Menteng,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-09-16,Kec. Tenjolaya Ds. Situ Daun  Kec. Sukajaya Ds. Kiara Pandak Kec. Cijeruk Ds. Cijeruk,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3218,2022-09-16,Kec. Langkap Lancar Ds. Bangunjaya Ds. Bojongkandang,PANGANDARAN,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-09-17,Kec. Leuwiliang  Ds. Puraseda  Kec. Cigudeg Ds. Banyuwangi,BOGOR,JAWA BARAT,0,0,0,21,0,0,21
+3201,2022-09-17,Kec. Leuwiliang Ds. Purasari,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3271,2022-09-17,Kec.Bogor Timur Ds.Sindangrasa,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3205,2022-09-18,Kec. Cilawu Ds. Sukamaju,GARUT,JAWA BARAT,0,0,0,3,0,0,3
+1108,2022-09-19,Kec. Peukak Bada Ds. Gle Geunteng,ACEH BESAR,ACEH,2,0,0,0,0,0,2
+3214,2022-09-20,Kec. Darangdan Ds. Pasir Angin,PURWAKARTA,JAWA BARAT,0,0,0,0,0,1,1
+7372,2022-09-21,Kec. Bacukiki Barat Kel. Lumpue,KOTA PARE-PARE,SULAWESI SELATAN,0,0,0,0,0,0,0
+1371,2022-09-21,Kec. Pauh Ds. Lambung Bukit,KOTA PADANG,SUMATERA BARAT,0,0,0,0,0,1,1
+1703,2022-09-21,Kec. Napal Putih Ds. Lebong Tandai,BENGKULU UTARA,BENGKULU,0,0,0,0,0,0,0
+6472,2022-09-22,Kec. Sungai Pinang Kel. Air Putih samarinda Ulu Kel. Dadi Mulya,KOTA SAMARINDA,KALIMANTAN TIMUR,0,0,0,2,0,0,2
+3201,2022-09-22,Kec. Cigudeg Kel. Sukaraksa,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-09-23,Kec. Bantargadung Ds. Buanajaya Ds. Limusnunggal Ds. Bantargadung Kec. Parakansalak Ds. Sukakersa,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3324,2022-09-23,Kec.Kaliwungu Ds. Sukomulyo Kec. Ngampel Ds.  Putatgede Kec.  Patebon Ds. Purwokerto Kec. Ngampel Ds. Dempelrejo Kec. Kendal Ds. Sukodono Kec.  Cepiring Ds. Juwiring Kec. Pegandon  Ds. Karangmulyo,KENDAL,JAWA TENGAH,0,0,0,22,0,0,22
+3303,2022-09-23,Kec. Rembang  Ds. Panusupan Ds. Tanalum Kec. Karangmoncol Ds. Rajawana Ds. Tunjungmuli Kec. Mrebet  Ds. Tangkisan,PURBALINGGA,JAWA TENGAH,0,0,0,7,0,0,7
+3203,2022-09-23,Kec. Leles Ds. Parubaya Ds. Sukamulya Kec. Sindangbarang,CIANJUR,JAWA BARAT,0,0,0,1,0,0,1
+3207,2022-09-23,Kec. Tambaksari Ds. Karang Paningal,CIAMIS,JAWA BARAT,0,0,0,1,0,0,1
+3217,2022-09-23,Kec.Cihampelas Kel Singajaya,BANDUNG BARAT,JAWA BARAT,0,0,0,2,0,0,2
+1403,2022-09-24,Kec.Tempuling  Ds.Teluk Jira,INDRAGIRI HILIR,RIAU,0,0,0,0,0,0,0
+3302,2022-09-24,Kec. Cilongok Ds. Kasegeran,BANYUMAS,JAWA TENGAH,0,0,0,0,0,0,0
+6302,2022-09-26,Kec. Sei Durian Ds. Buluh Kuning,KOTABARU,KALIMANTAN SELATAN,9,2,7,10,0,0,28
+3207,2022-09-26,Kec. Lumbung Ds. Sadewata,CIAMIS,JAWA BARAT,0,0,0,5,0,0,5
+3401,2022-10-02,Kec.  Girimulyo,KULONPROGO,DI YOGYAKARTA,0,0,0,0,0,0,0
+3204,2022-10-02,Kec.  Pasir Jambu  Ds. Sisondari,BANDUNG,JAWA BARAT,0,0,0,0,0,0,0
+3210,2022-10-03,Kec. Lemahsugih Ds. Margajaya,MAJALENGKA,JAWA BARAT,0,0,0,1,0,0,1
+3207,2022-10-03,Kec. Cikoneng Ds. Kujang Kec. Cihaurbeuti Ds. Sukahurip Kec.  Panawangan Ds. Kertayasa Ds. Nagarawangi Ds. Nagarajaya,CIAMIS,JAWA BARAT,0,0,0,4,0,0,4
+3202,2022-10-03,Kec.  Gegerbitung  Ds. Sukamanah,SUKABUMI,JAWA BARAT,0,0,0,0,0,0,0
+3471,2022-10-03,Kec. Kotagede Kel. Prenggan Kec. Tegalrejo Kel. Tegalrejo Kec. Ngampilan Kel. Ngampilan Kec. Mergangsan Kel. Wirogunan Kec. Umbulharjo Kel. Sorosutan,KOTA YOGYAKARTA,DI YOGYAKARTA,0,0,0,0,0,0,0
+3201,2022-10-04,Kec.  Cigombong Kel. Cigombong Kel. Ciburuy Kel. Ciadeg,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3509,2022-10-05,Kec.  Panti Ds. Kemiri,JEMBER,JAWA TIMUR,0,0,0,1,0,0,1
+3503,2022-10-06,Kec.Kampak Desa Bogoran,TRENGGALEK,JAWA TIMUR,0,0,0,0,0,0,0
+3201,2022-10-06,Kec.Ciawi Ds.Banjarwangi,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3304,2022-10-06,Kec.Pejawaran Ds.Pegunungan  Kec. Pejawaean Desa sidengok,BANJARNEGARA,JAWA TENGAH,0,0,0,3,0,0,3
+1802,2022-10-06,Kec. Kelumbayan Barat Pekon Batupatah,TANGGAMUS,LAMPUNG,0,0,0,0,0,0,0
+3302,2022-10-07,Kec.Kedungbanteng Ds. Kutaliman Ds. Dawuhan Kulon Ds. Baseh Kec.Sumpiuh Ds. Banjarpanepen Kec.Cilongok Ds. Karanglo Ds. Sokawera Ds. Gununglurah Ds. Cipete Ds. Kasegeran Ds. Panusupan Ds. Sambirata Kec.Patikraja Ds. Sawangan Ds. Karanganyar Ds. Kedungwuluh Lor Ds. Sawangan Wetan Kec.Karanglewas Ds. Babakan Ds. Pangebatan Kec.Wangon Ds. Cikakak Ds. Pengadegan Ds. Jurangbahas Kec.Kebasen Ds. Karangsari Ds. Tumiyang Ds. Kalisalak Ds. Tumiyang Ds. Mandirancan Kel.Lumbir Ds. Parungkamal Ds. Besuki Ds. Cirahab Ds. Karanggayam Ds. Parungkamal Ds. Canduk Kel.Purwojati Ds. Karangmangu Ds. Purwojati Ds. Karangmangu Ds. Kalitapen Ds. Karangtalun Kidul Ds. Kaliurip Ds. Karangmangu  Ds. Purwojati Kel.Somagede Ds. Somagede Ds. Klinting Ds. Sokawera Ds. Tanggeran Ds. Sokawera Ds. Kemawi Kel.Rawalo Ds.Banjarparakan Kel.Ajibarang Ds.Sawangan Ds.Tipar Kidul Ds.Pancasan Kel.Jatilawang Ds.Karanglewas Kel.Pekuncen Ds.Candinegara Ds.Cibangkong  Kec.Kemranjen Ds.Pageralang Ds.Sibrama Kec.Banyumas Ds.Binangun Ds.Papringan,BANYUMAS,JAWA TENGAH,0,0,0,0,0,0,0
+5106,2022-10-07,kec.Cempaga Ds.Gunaksa Kec.Tembuku Ds. Bangbang Ds. Peninjoan,BANGLI,BALI,3,0,3,0,0,0,6
+3306,2022-10-07,"Kec. Kemiri Desa Gunung Teges, Desa kaliglagah,  Desa Wonosido",PURWOREJO,JAWA TENGAH,0,0,0,1,0,0,1
+3306,2022-10-07,"kec. Kemiri Ds.Gunung Teges  Ds, Purbayan Kec. Bruno Ds. Pakis Arum Ds. Kaliglagah",PURWOREJO,JAWA TENGAH,0,0,0,0,0,0,0
+3202,2022-10-07,Kec. Nagrak Ds. Girijaya Kec. Caringin Ds. Mekarjaya Kec. Kabandungan Ds . Kabandungan Kec. Purabaya Ds. Purabaya Ds. Margaluyu Kec. Cisaat Ds. Babakan Kec. Parakansalak Ds. Bojongasih Ds. Sukatani Kec. Curugkembar Ds. Sindangraja Ds. Curugkembar Ds. Nagrakjaya Kec. Kadudampit Ds. Citamiang Kec. Ciambar Ds. Cibunarjaya Kec. Nyalindung Ds. Nyalindung Ds. Kertaangsana Ds. Cijangkar Kec. Ciemas Ds. Ciwaru Kec. Cicantayan Ds. Cicantayan Kec. Sukabumi Ds. Warnasari Kec. Sagaranten Ds. Cibitung Ds. Mekarsari Kec. Cimanggu Ds. Boregahindah Kec. Gegerbitung Ds. Cijurey Kec. Cireunghas Ds. Tegalpanjang Ds. Cipurut Ds. Bencoy Kec. Gunungguruh Ds. Cibentang Kec. Parungkuda Ds. Pondokkaso Landeuh Ds. Parungkuda Kec. Sukaraja Ds. Limbangan Ds. Sukamekar Kec. Cicurug Ds. Purwasari,SUKABUMI,JAWA BARAT,0,0,0,32,0,0,32
+3214,2022-10-07,Kec.Sukasari  Desa.Sukasari Kec Bojong Desa Bojong Barat Desa Cibingbin Desa Pasanggrahan,PURWAKARTA,JAWA BARAT,0,0,0,1,0,2,3
+5107,2022-10-07,"kec.Selat, Desa Muncan kec.Rendang, Desa Besakih kec.Sidemen.  Desa Sinduwati kec.Bebandem  Desa Bunutan kec.Abang",KARANGASEM,BALI,0,0,1,0,0,0,1
+3272,2022-10-08,kec.Lembursitu Kel Cipanengah kec. Citamiang Kel Nanggeleng Kel Karang Tengah Kel Subangjaya Kec. Cibeureum Kel..Cibeureum Hilir Kel Sindangpalay,KOTA SUKABUMI,JAWA BARAT,0,0,0,0,0,1,1
+5106,2022-10-08,Kec. Tembuku,BANGLI,BALI,3,0,3,0,0,0,6
+5103,2022-10-08,kec.Mengwi Ds.Abianbase,BADUNG,BALI,0,0,0,0,0,0,0
+3204,2022-10-08,kec.Kutawaringin Ds.Padasuka Kec. Ciwidey Ds. Rawabogo,BANDUNG,JAWA BARAT,0,0,0,0,0,0,0
+3507,2022-10-08,kec.Sumbermajing Wetan Ds.Kedungbanteng,MALANG,JAWA TIMUR,0,0,0,0,0,0,0
+6112,2022-10-08,Kec. Batu Ampar Ds. Batam,KUBU RAYA,KALIMANTAN BARAT,0,0,0,1,0,0,1
+3401,2022-10-08,kec.Kokap Kec. Hargotirto Kec. Hargorejo,KULONPROGO,DI YOGYAKARTA,0,0,0,1,0,0,1
+3201,2022-10-09,Kec. Ciawi Ds. Sukamaju Ds. Suka Resmi Ds. Cibedug Kec. Sukaraja Ds. Gunung Geulis Kec. Megamendung  Ds. Cipayung Datar Ds. Sukamaju Ds. Sukaresmi Kec. Cisarua  Ds. Kopo Ds. Jogjogan Kec. Leuwiliang Ds. Karacak,BOGOR,JAWA BARAT,0,0,0,17,0,1,18
+6471,2022-10-09,kec. Balikpapan utara Kel. graha indah,KOTA BALIKPAPAN,KALIMANTAN TIMUR,0,0,0,1,0,0,1
+3203,2022-10-09,Kec. Sukaresmi Ds. Pakuon Kec. Takokak Ds. Sindanghayu Kec. Cibeber Ds. Selagedang Kec. Cipanas Ds. Palasari,CIANJUR,JAWA BARAT,0,0,0,2,0,0,2
+3271,2022-10-09,Kec. Bogor Selatan Kel. Batu Tulis  Kel. Katulampa Kel. Sukasari Kel. Harjasari Kec. Bogor Barat Kel.  Pasir Jaya,KOTA BOGOR,JAWA BARAT,0,0,2,14,0,0,16
+3301,2022-10-09,Kec. Jeruklegi Ds. Citepus  Ds. Prapagan Ds. Karangkemiri Ds. Jambusari,CILACAP,JAWA TENGAH,0,0,0,4,0,0,4
+3329,2022-10-09,Kec. Paguyangan. Ds. Wanatirta,BREBES,JAWA TENGAH,0,0,0,1,0,0,1
+3201,2022-10-10,Kec. Bogor Tengah Kel. Pabaton Kec. Bogor Selatan Kel. Cipaku,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+7173,2022-10-10,Kec. Tomohon Timur Kel. Rurukan,KOTA TOMOHON,SULAWESI UTARA,1,0,0,0,0,0,1
+3304,2022-10-10,Kec. Pagentan Ds. Pagentan Kec. Pejawaran Ds. Tlahab Kec. Punggelan Ds. Jembangan,BANJARNEGARA,JAWA TENGAH,0,0,2,3,0,0,5
+5107,2022-10-10,Kec. Rendang Ds. Rendang Ds. Nongan,KARANGASEM,BALI,0,0,0,0,0,2,2
+3404,2022-10-11,Kec. Minggir Ds. Sendangmulyo Kec. Sleman Ds. Pandowoharjo,SLEMAN,DI YOGYAKARTA,0,0,2,0,0,0,2
+3271,2022-10-11,Kec.Bogor Tengah          Kel.Sempur Kec.Bogor Selatan Kel.Lawanggintung Kel. Cipaku Kel.Bojong Kerta Kel.Muarasari Kel.Pakuan Kec.Bogor Utara Kel.Cibuluh Kec.Bogor Barat Kel.Bubulak,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-10-11,Kec. Mega Mendung Ds. Mega Mendung,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3271,2022-10-11,Kec. Bogor Tengah Kel. Kebon Kelapa,KOTA BOGOR,JAWA BARAT,1,0,3,0,0,0,4
+1201,2022-10-12,Kec. Hiliserangkai Ds. Ehosakhozi,NIAS,SUMATERA UTARA,0,0,0,0,0,1,1
+3201,2022-10-12,Kec. Ciomas Ds. Pangelaran,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-10-12,Kec. Cigombong Ds. Ciadeg,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-10-12,Kec. Babakan Madang Ds. Bojong Koneng,BOGOR,JAWA BARAT,0,0,0,4,0,0,4
+3201,2022-10-12,Kec. Cijeruk Ds. Tanjungsari Kec. Cigombong Kec. Ciburuy,BOGOR,JAWA BARAT,0,0,0,4,0,0,4
+3201,2022-10-12,Kec. Nanggung Ds. Pangkal Jaya Ds. Kalong Luid,BOGOR,JAWA BARAT,0,0,0,3,0,0,3
+3201,2022-10-13,Kec. Cileungsi Ds. Pasir Angin,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3201,2022-10-13,Kec. Sukaraja Kel .Gunung Geulis,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3204,2022-10-13,Kec. Cicalengka Ds. Babakan Peuteuy,BANDUNG,JAWA BARAT,0,0,0,0,0,0,0
+3329,2022-10-13,Kec. Bantarkawung Ds. Cinanas,BREBES,JAWA TENGAH,0,0,0,5,0,0,5
+3204,2022-10-13,Kec. Soreang Ds. Sadu,BANDUNG,JAWA BARAT,0,0,0,1,0,0,1
+3503,2022-10-14,Kec. Panggul Ds. Banjar Ds. Terbis Ds. Ngrencak,TRENGGALEK,JAWA TIMUR,0,0,0,12,0,0,12
+7304,2022-10-14,Kec. Rumbia Ds. Loka,JENEPONTO,SULAWESI SELATAN,3,0,0,5,0,0,8
+3329,2022-10-14,Kec. Bumiayu Ds. Cilibur,BREBES,JAWA TENGAH,0,0,0,0,0,0,0
+5107,2022-10-14,Kec. Abang Ds. Abang,KARANGASEM,BALI,0,0,0,1,0,0,1
+3304,2022-10-15,Kec. Punggelan Ds. Jembangan Kec. Batur Ds. Sidengok Ds. Miaya Kec. Pejawaran Ds. Karangsari Ds. Sidengkok,BANJARNEGARA,JAWA TENGAH,0,0,0,4,0,0,4
+3214,2022-10-15,Kec.Wanayasa  Ds. Sakambang,PURWAKARTA,JAWA BARAT,0,0,0,0,0,0,0
+3579,2022-10-15,Kec. Bumiaji Ds. Sumberbrantas,KOTA BATU,JAWA TIMUR,0,0,0,0,0,0,0
+3304,2022-10-16,Kec. Wanayasa  Ds. Suwidak  Ds. Bantar  Kec. Pagentan Kec. Pejawaran Kec. Punggelan Kec. Karangkobar Kec. Pandanarum,BANJARNEGARA,JAWA TENGAH,1,0,4,130,0,0,135
+1108,2022-10-16,Kec. Lhoong Ds. Keutapang,ACEH BESAR,ACEH,0,0,0,5,0,0,5
+3509,2022-10-16,Kec. Sumberbaru Ds. Jambesari,JEMBER,JAWA TIMUR,0,0,0,3,0,0,3
+3505,2022-10-17,Kec. Panggungrejo Ds. Balerejo Kec. Binangun Ds. Binangun Kec. Kademangan Ds. Maron Kec. Wates Ds. Purworejo Kec. Sutojayan Ds. Pandanarum,BLITAR,JAWA TIMUR,0,0,0,15,0,0,15
+5102,2022-10-17,Kec. Pupuan Kec. Penebel Ds. Tajen Kec. Baturiti Ds. Apuan Kec. Marga Ds. Batan Nyuh Kec. Kediri Ds. Abian Tuwung,TABANAN,BALI,1,0,0,0,0,0,1
+3507,2022-10-17,Kec. Ampelgading Ds. Lebakharjo. Ds. Sidorenggo Ds. Purwoharjo Ds. Mulyosari Ds. Tamansari Ds. Sonowangi Ds. Wirotaman Ds. Argoyuwono Kec. Dampit Ds. Sukodono Kec. Donomulyo Ds. Mentaraman Kec. Sumawe Ds. Tambaksari Kec. Titoyudo Ds. Ampelgading Ds. Gandungsari Ds. Kepatihan Ds. Sumbertangkil,MALANG,JAWA TIMUR,0,0,0,0,0,0,0
+3502,2022-10-18,Kec. Sawoo Ds. Sriti,PONOROGO,JAWA TIMUR,0,0,0,0,0,0,0
+3217,2022-10-18,Kec Rongga  Kel Cicadas,BANDUNG BARAT,JAWA BARAT,0,0,0,2,0,0,2
+3308,2022-10-18,"Kec. Sawangan , Desa Sawangan",MAGELANG,JAWA TENGAH,0,0,0,0,0,0,0
+3217,2022-10-18,Kec. Cipongkor Ds. Cintaasih Kp. Cibayawak Kec. Rongga Ds. Cicadas Kp. Nyalindung Kec. Sindangkerta Ds.Cicangkanggirang Kp. Cikanyere,BANDUNG BARAT,JAWA BARAT,0,0,0,3,0,0,3
+6472,2022-10-18,Kec. Samarinda Ulu Kel. Gunung kelua Kel. Air hitam,KOTA SAMARINDA,KALIMANTAN TIMUR,0,0,0,0,0,0,0
+3304,2022-10-19,Kec. Wanayasa  Ds. Suwidak  Ds. Bantar  Kec. Pagentan Kec. Pejawaran Kec. Punggelan Kec. Karangkobar Kec. Pandanarum,BANJARNEGARA,JAWA TENGAH,1,0,4,22,0,0,27
+3201,2022-10-20,Kec. Nanggung Ds. Nanggung Ds. Curug Bitung,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-10-20,Kec. Sukajaya Ds. Sukajaya Ds. Kiara Pandak Kec. Cijeruk Ds. Warung Menteng,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3312,2022-10-21,Kec. Jatipurno Ds. Kembang,WONOGIRI,JAWA TENGAH,0,0,0,1,0,0,1
+3204,2022-10-21,Kec. Kertasari Ds. Sukapura Kec. Ibun Ds. Ibun Ds. Laksana,BANDUNG,JAWA BARAT,0,0,0,3,0,0,3
+3210,2022-10-21,Kec. Bantarujeg Ds. Gununglarang,MAJALENGKA,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-10-21,Kec. Cigombong  Ds. Cigombong  Ds. Wates Jaya Ds. Ciburuy,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3210,2022-10-21,Kec.Sindangwangi  Desa  Lengkong Kulon,MAJALENGKA,JAWA BARAT,0,0,0,4,0,0,4
+3202,2022-10-21,Kec. Cidahu Ds. Cidahu Kec. Parakansalak Ds. Sukakersa Kec. Sukabumi Ds. Warnasari,SUKABUMI,JAWA BARAT,0,0,0,3,0,0,3
+3203,2022-10-21,Kec. Cugenang Ds. Talaga Kec. Cidaun Ds. Jayapura Ds. Cibuluh Kec. Cilaku Ds. Munjul,CIANJUR,JAWA BARAT,0,0,0,6,0,0,6
+3271,2022-10-21,Kec. Bogor Barat Kel. Pasirjaya Kec. Bogor Utara Kel. Bantarjati Kel. Tegalgundil,KOTA BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3215,2022-10-22,Kec. Tegalwaru  Ds. Cintawargi,KARAWANG,JAWA BARAT,0,0,0,5,0,0,5
+3217,2022-10-22,Kec. Padalarang Ds. Jayamekar,BANDUNG BARAT,JAWA BARAT,0,0,0,0,0,3,3
+3202,2022-10-22,Kec. Ciemas Ds. Mekarsakti Ds. Tamanjaya Kec. Cidadap Ds. Mekartani Kec. Cidolog Ds. Cikarang,SUKABUMI,JAWA BARAT,0,0,0,1,0,0,1
+3324,2022-10-22,Kec. Singorojo Ds. Getas,KENDAL,JAWA TENGAH,0,0,0,0,0,0,0
+3301,2022-10-23,Kec. Dayeuhluhur  Ds. Datar,CILACAP,JAWA TENGAH,0,0,0,2,0,0,2
+3502,2022-10-23,Kec. Ngebel Ds. Talun,PONOROGO,JAWA TIMUR,0,0,0,0,0,0,0
+3204,2022-10-23,Kec. Soreang Ds. Sukanagara Ds. Karamat Mulya Kec. Ciwidey Ds. Panundaan Ds. Lebak Muncang Kec. Pacet Ds. Mandala Haji Kec. Baleendah Ds. Jelekong,BANDUNG,JAWA BARAT,0,0,0,0,0,0,0
+3324,2022-10-23,Kec. Singorojo Ds. Cening,KENDAL,JAWA TENGAH,0,0,0,0,0,0,0
+3210,2022-10-23,Kec. Cikijing Ds. Sindang Panji Kec. Talaga Ds. Margamukti,MAJALENGKA,JAWA BARAT,0,0,0,1,0,0,1
+3504,2022-10-23,Kec. Sendang  Ds. Nyawangan,TULUNGAGUNG,JAWA TIMUR,3,0,2,0,0,0,5
+3201,2022-10-23,Kec. Caringin Ds. Pasirbuncir  Kec. Cigombong  Ds. Wates jaya,BOGOR,JAWA BARAT,0,0,0,4,0,0,4
+3201,2022-10-23,Kec. Ciawi  Ds. Citapen,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3304,2022-10-23,Kec. Karangkobar  Ds. Sampang,BANJARNEGARA,JAWA TENGAH,0,0,0,4,0,0,4
+3329,2022-10-23,Kec. Salem Ds. Indrajaya Ds. Gunungjaya,BREBES,JAWA TENGAH,0,0,0,3,0,0,3
+3208,2022-10-24,Kec. Cibeureum Ds. Sukarapih Kec. Nusaherang Ds. Jambar Kec. Darma Ds. Kawahmanuk,KUNINGAN,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-10-24,Kec. Caringin  Ds. Pasir Datar Indah  Kec. Cikembar  Ds. Cibatu,SUKABUMI,JAWA BARAT,3,0,0,5,0,0,8
+3201,2022-10-24,Kec. Kalapanunggal Ds. Leuwi Karet,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3201,2022-10-25,Kec. Ciawi Ds. Bojongmurni Kec. Megamendung Ds. Sukamahi,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3210,2022-10-25,Kec. Malausma  Ds. Banyusari  Ds. Werasari,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3205,2022-10-25,Kec. Leles Ds. Kandangmukit Kec. Mekarmukti Ds. Jayabaya Ds. Mekarmukti Kec. Cisewu Ds. Pamalayan Kec. Malangbong Ds. Baru Dua Kec. Caringin Ds. Caringin Kec. Talegong Ds. Sukamulya Ds. Sukamaju Kec. Sukawening Ds. Sudalarang Kec. Leuwigoong Ds. Karangsari,GARUT,JAWA BARAT,0,0,0,4,0,0,4
+3205,2022-10-25,Kec. Bungbulang  Ds. Gunamekar,GARUT,JAWA BARAT,0,0,0,7,0,0,7
+3329,2022-10-25,Kec. Sirampog Ds. Sridadi Kec. Salem Ds. Tembongraja Ds. Salem,BREBES,JAWA TENGAH,0,0,0,1,0,0,1
+3301,2022-10-25,Kec. Dayeuh Luhur Ds. Cijeruk,CILACAP,JAWA TENGAH,0,0,0,3,0,0,3
+3207,2022-10-25,Kec. Panumbang Ds. Buana Mekar,CIAMIS,JAWA BARAT,0,0,0,5,0,0,5
+3303,2022-10-25,Kec. Karangreja Ds. Siwarak Ds. Tlahab Ds. Karangreja,PURBALINGGA,JAWA TENGAH,0,0,0,0,0,0,0
+3201,2022-10-26,Kec. Ciawi Ds. Cibedug,BOGOR,JAWA BARAT,0,0,0,3,0,0,3
+3206,2022-10-26,Kec. Parungponteng  Ds. Girikencana,TASIKMALAYA,JAWA BARAT,0,0,0,0,0,0,0
+3208,2022-10-26,Kec. Darma  Ds. Cimenga,KUNINGAN,JAWA BARAT,0,0,0,1,0,0,1
+3202,2022-10-26,Kec. Pelabuhan Ratu Ds. Jayanti Kec. Parakansalak Ds. Parakansalak Kec. Cikidang Ds. Pangkalan,SUKABUMI,JAWA BARAT,0,0,0,2,0,0,2
+3205,2022-10-26,Kec. Cibatu Ds. Sukalilah Kec. Pamulihan Ds. Panawa Ds. Pakenjeng Ds. Garumukti Kec. Cigedug Ds. Sindangsari Kec. Sukadana Ds. Margaharja,GARUT,JAWA BARAT,0,0,0,3,0,0,3
+3201,2022-10-27,Kec. Parung Ds. Warujaya,BOGOR,JAWA BARAT,0,0,0,3,0,0,3
+5171,2022-10-27,Kec. Denpasar Utara Kel. Puri Kaja,KOTA DENPASAR,BALI,0,0,0,5,0,0,5
+5107,2022-10-27,Kec. Bebandem  Ds. Sibetan,KARANGASEM,BALI,0,0,0,0,0,0,0
+3203,2022-10-28,Kec. Cikalong Ds. Gudang,CIANJUR,JAWA BARAT,0,0,0,3,0,0,3
+1113,2022-10-29,kec Dabun Gelang desa Badak desa rerebe kec kota panjang desa rema tue  kec Dabun gelang tebing desa uning sepakat kec Teripe Jaya Desa Uyem beriring,GAYO LUES,ACEH,0,0,0,0,0,0,0
+1106,2022-10-29,Kec. Rusip Antara Kp. Lut Jaya,ACEH TENGAH,ACEH,0,0,0,3,0,0,3
+3211,2022-10-29,Kec Sumedang Selatan Desa Ciherang,SUMEDANG,JAWA BARAT,0,0,5,0,0,0,5
+3206,2022-11-03,Kec. Parungponteng Ds. Girikancana,TASIKMALAYA,JAWA BARAT,0,0,0,1,0,0,1
+3305,2022-11-03,Kec. Ayah Ds. Argopeni,KEBUMEN,JAWA TENGAH,2,0,0,2,0,0,4
+3271,2022-11-03,Kec. Bogor Selatan Ds. Pakuan Ds. Cikaret Ds. Pamoyanan Kec . Bogor Timur Ds. Katulampa Ds. Baranangsiang Kec . Bogor Utara Ds. Cimahpar,KOTA BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3271,2022-11-05,Kec. Bogor Selatan Kel. Bondongan Kel. Kertamaya Kel. Pakuan Kec. Bogor Tengah Kel. Gudang,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3204,2022-11-06,Kec. Ibun Desa Ibun,BANDUNG,JAWA BARAT,0,0,0,2,0,0,2
+3201,2022-11-06,Kec. Cijenuk Kel : Sukaharja,BOGOR,JAWA BARAT,0,0,0,1,0,0,1
+3503,2022-11-07,Kec. Panggul Ds. Ngencak,TRENGGALEK,JAWA TIMUR,0,0,0,3,0,0,3
+3509,2022-11-07,Kec. Kaliwates Kel. Mangli Perum. Millenia Kel. Kaliwates Kec. Ajung Ds. Ajung Ds. Klompangan Kec. Ambulu Ds. Sumberejo Kec. Silo Ds. Garahan Ds. Sidomulyo,JEMBER,JAWA TIMUR,1,0,1,8,0,0,10
+5309,2022-11-08,Kec Adonara Timur Desa Gelong,FLORES TIMUR,NUSA TENGGARA TIMUR,0,0,0,1,0,0,1
+3217,2022-11-08,Kec. Ngamprah   Desa Bojongkoneng Desa Paku Haji Kec Parongpong Desa Cihanjuang,BANDUNG BARAT,JAWA BARAT,0,0,0,1,0,0,1
+3271,2022-11-09,Kec. Bogor Barat Kel Curug Kec Bogor Utara Kel Cimahpar,KOTA BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+7603,2022-11-10,Kec Mambi Desa Salumaka,MAMASA,SULAWESI BARAT,0,0,7,4,0,0,11
+1203,2022-11-12,Kec. Arse  Ds. Sipogu Kel. Arse Nauli Ds. Pinagar,TAPANULI SELATAN,SUMATERA UTARA,0,0,0,0,0,0,0
+3210,2022-11-12,Kec. Bantarujeg Ds. Siliwangi,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+1801,2022-11-12,Kec. Balik Bukit Pekon Padang Cahya,LAMPUNG BARAT,LAMPUNG,0,0,0,1,0,0,1
+3304,2022-11-12,Kec. Pagentan Titik Desa Gumingsir,BANJARNEGARA,JAWA TENGAH,0,0,0,0,0,0,0
+3307,2022-11-12,Kec. Watumalang Ds. Watumalang Ds. Kalidesel,WONOSOBO,JAWA TENGAH,0,0,0,2,0,0,2
+1704,2022-11-13,Kec. Tanjung kemuning  Kec. Maje Ds. Arga Mulya Kec. Nasal Kec. Kaur selatan  Kec. tetap,KAUR,BENGKULU,0,0,0,0,0,0,0
+1813,2022-11-13,Kec. Karya Penggawa Pekon Tembakak Way Sindi Kec. Lemong Pekon Penengahan,PESISIR BARAT,LAMPUNG,3,0,0,2,0,1,6
+3501,2022-11-13,Kec. Arjosari Ds. Gegeran Dsn. Krajan,PACITAN,JAWA TIMUR,0,0,2,3,0,0,5
+6110,2022-11-13,Kec. Menukung Ds. Batu Badak,MELAWI,KALIMANTAN BARAT,0,0,0,0,0,0,0
+3201,2022-11-13,Kec. Dramaga  Ds. Sukawening,BOGOR,JAWA BARAT,0,0,0,2,0,0,2
+3320,2022-11-13,Kec. Jepara Kel. Ujung Batu,JEPARA,JAWA TENGAH,0,0,0,2,0,0,2
+1601,2022-11-13,Kec. Sungai are Ds. Cukoh Nau,OGAN KOMERING ULU,SUMATERA SELATAN,0,0,0,1,0,0,1
+1306,2022-11-14,Kec. VII Koto Sungai Sariak Nagari Sungai Sariak Korong Sungai Ibua 1,PADANG PARIAMAN,SUMATERA BARAT,0,0,1,1,0,0,2
+7171,2022-11-15,Kec. Wanea Kel. Pakowa Kel. Wanes Kel. Bumi Nyiur Kel. Ranotana Weru,KOTA MANADO,SULAWESI UTARA,0,0,0,0,0,0,0
+3216,2022-11-15,Kec. Cikarang Barat Ds. Kalijaya,BEKASI,JAWA BARAT,0,0,0,0,0,0,0
+3374,2022-11-15,Kec. Candisari Ds. Candi,KOTA SEMARANG,JAWA TENGAH,0,0,0,0,0,0,0
+7306,2022-11-16,Kec. Parangloe Desa Lonjoboko  Kec. Tinggimoncong,GOWA,SULAWESI SELATAN,4,4,0,0,0,0,8
+1277,2022-11-17,Kec. Padang Sidempuan Selatan Kel. Sitamiang   Kel. Sidangkal  Kel. Aek Tampang,KOTA PADANG SIDEMPUAN,SUMATERA UTARA,0,0,0,0,0,0,0
+3501,2022-11-17,Kec. Tegalombo  Ds. Kemuning,PACITAN,JAWA TIMUR,0,0,0,0,0,0,0
+3208,2022-11-21,Kec. Ciniru Ds. Rambatan,KUNINGAN,JAWA BARAT,0,0,0,0,0,0,0
+3317,2022-11-22,Kec. Rembang Ds. Sumberjo,REMBANG,JAWA TENGAH,0,0,0,4,0,0,4
+3207,2022-11-23,Kec. Ciamis Ds. Ciamis,CIAMIS,JAWA BARAT,0,0,0,1,0,0,1
+1307,2022-11-23,Kec. Malalak Ds. Malalak Timur Kec. Sungai Pua Ds. Batagak,AGAM,SUMATERA BARAT,0,0,0,0,0,0,0
+1308,2022-11-24,Kec. Gunung Omeh Nagari Koto Tinggi Jorong Aia Angek,LIMA PULUH KOTA,SUMATERA BARAT,0,0,0,0,0,0,0
+3305,2022-11-24,Kec. Ayah Ds. Pasir,KEBUMEN,JAWA TENGAH,0,0,0,1,0,0,1
+1403,2022-11-25,Kec. Tanah Merah Ds. Kuala Enok,INDRAGIRI HILIR,RIAU,0,0,0,0,0,0,0
+3573,2022-11-26,Kec. Blimbing Kel. Jodipan,KOTA MALANG,JAWA TIMUR,0,0,0,2,0,0,2
+3205,2022-12-05,Kec. Leles Ds. Jangkurang,GARUT,JAWA BARAT,0,0,2,0,0,0,2
+3201,2022-12-06,Kec. Ciawi Ds. Cileungsi,BOGOR,JAWA BARAT,0,0,0,0,0,0,0
+3208,2022-12-08,Kec. Ciniru Ds. Pinara Ds. Cijemit,KUNINGAN,JAWA BARAT,0,0,0,14,0,0,14
+3214,2022-12-09,Kec. Jatiluhur Ds. Cisalada Kec. Bandar Khalifah Ds. Juhar Ds. Gelam Sei Serimah Ds. Pekan Ds. Kayu Besar Ds. Bandar Tengah Kec. Perbaungan Ds. Citaman Jernih Ds. Sei Buluh Ds. Simpang Ds. Sei Sijenggi Ds. Melati II Ds. Kota Galuh Ds. Lubuk Rotan Ds. Tanah Merah Ds. Kesatuan Ds. Tanjung Buluh Ds. Melati I Ds. Sei Nagalawan,PURWAKARTA,JAWA BARAT,1,0,0,1,0,0,2
+6571,2022-12-10,Kec. Tarakan Tengah,KOTA TARAKAN,KALIMANTAN UTARA,0,0,0,6,0,0,6
+1403,2022-12-12,Kec. Tanah Merah Kel. Kuala Enok,INDRAGIRI HILIR,RIAU,0,0,0,10,0,0,10
+3314,2022-12-13,Kec. Sambirejo Ds. Jetis Ds. Musuk,SRAGEN,JAWA TENGAH,0,0,0,0,0,0,0
+7318,2022-12-13,Kec. Mappa’ Ds. Lembang Miallo,TANA TORAJA,SULAWESI SELATAN,0,0,2,6,0,0,8
+1105,2022-12-13,Kec. Banda Alam Gp. Blang Rambong,ACEH TIMUR,ACEH,0,0,0,1,0,0,1
+3308,2022-12-14,Kec. Mertoyudan Ds. Sampit,MAGELANG,JAWA TENGAH,0,0,0,1,0,0,1
+3307,2022-12-14,Kec. Kalibawang Ds. Kalikarung,WONOSOBO,JAWA TENGAH,0,0,0,0,0,0,0
+3301,2022-12-15,Kec. Karangpucung Ds.  Bengbulang,CILACAP,JAWA TENGAH,0,0,0,5,0,0,5
+3301,2022-12-15,Kec. Karangpucung  Ds. Bengbulang Ds.,CILACAP,JAWA TENGAH,0,0,0,0,0,0,0
+3505,2022-12-16,Kec. Selorejo Ds.  Sumberagung Ds. Selorejo Ds. Pohgajih,BLITAR,JAWA TIMUR,0,0,0,0,0,0,0
+3204,2022-12-18,Kec. Nagreg Ds.  Nagreg Kendan,BANDUNG,JAWA BARAT,0,0,0,8,0,0,8
+3210,2022-12-18,Kec. Lemahsugih Ds. Sadawangi  Kec. Bantarujeg Ds. Silihwangi,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3210,2022-12-20,Kec.Cingambul Ds.Wangkelang Kec.Talaga Ds. Talaga Kulon,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3310,2022-12-21,Kec.Kemalang Ds.Balerante,KLATEN,JAWA TENGAH,2,0,0,0,0,0,2
+3210,2022-12-21,Kec.Malausma. Ds.a Buninagara Kec. Sukahaji Ds. Cikeusik Kec. Cingambul Ds.  Wangkelang Kec. Talaga Ds. Talaga Kulon Kec. Rajagaluh Ds.  Babakankareo,MAJALENGKA,JAWA BARAT,0,0,0,0,0,0,0
+3507,2022-12-22,Kec. Klojen Ds. Penanggungan,MALANG,JAWA TIMUR,0,0,0,0,0,1,1
+7306,2022-12-24,Kec.  Tinggi Moncong Kel. Bontolerung Kec. Parangloe Desa Lonjoboko,GOWA,SULAWESI SELATAN,4,1,0,0,0,0,5
+3201,2022-12-25,Kec. Sukamakmur Ds. Sukamakmur,BOGOR,JAWA BARAT,0,0,0,5,0,1,6
+3374,2022-12-26,Kec. Candisari Kel. Jomblang,KOTA SEMARANG,JAWA TENGAH,0,0,1,0,0,0,1
+7306,2022-12-26,Kec. Parangloe Ds.  Lonjoboko Kec. Tinggimoncong Kel. Bontolerung,GOWA,SULAWESI SELATAN,5,0,0,10,0,0,15
+7316,2022-12-27,Kec. Enrekang Ds. Karueng,ENREKANG,SULAWESI SELATAN,0,0,0,0,0,0,0
+3503,2022-12-27,Kec. Dongko Ds.  Ngerdani,TRENGGALEK,JAWA TIMUR,0,0,0,0,0,0,0
+3514,2022-12-28,Kec. Puspo Ds. Puspo,PASURUAN,JAWA TIMUR,0,0,0,0,0,0,0

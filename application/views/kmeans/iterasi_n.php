@@ -91,6 +91,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<th>Jarak ke C1</th>
 						<th>Jarak ke C2</th>
 						<th>Jarak ke C3</th>
+						<th>Jarak Terkecil</th>
 						<th>Kelas</th>
 					  </tr>
 					</thead>
@@ -105,6 +106,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<td><?=$data['d1'];?></td>
 						<td><?=$data['d2'];?></td>
 						<td><?=$data['d3'];?></td>
+						<td><?=$data['terkecil_kedua'];?></td>
 						<td><?=$data['kelas'];?></td>
 					  </tr>
 						<?php }
